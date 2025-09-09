@@ -1,0 +1,5882 @@
+{
+    "test/000263.jpg": {
+        "image_path": "NEU_Seg/test/000263.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000263.png"
+    },
+    "test/000705.jpg": {
+        "image_path": "NEU_Seg/test/000705.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000705.png"
+    },
+    "test/000275.jpg": {
+        "image_path": "NEU_Seg/test/000275.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000275.png"
+    },
+    "test/000220.jpg": {
+        "image_path": "NEU_Seg/test/000220.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000220.png"
+    },
+    "test/000572.jpg": {
+        "image_path": "NEU_Seg/test/000572.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000572.png"
+    },
+    "test/000031.jpg": {
+        "image_path": "NEU_Seg/test/000031.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000031.png"
+    },
+    "test/000074.jpg": {
+        "image_path": "NEU_Seg/test/000074.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000074.png"
+    },
+    "test/000590.jpg": {
+        "image_path": "NEU_Seg/test/000590.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000590.png"
+    },
+    "test/000244.jpg": {
+        "image_path": "NEU_Seg/test/000244.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000244.png"
+    },
+    "test/000226.jpg": {
+        "image_path": "NEU_Seg/test/000226.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000226.png"
+    },
+    "test/000522.jpg": {
+        "image_path": "NEU_Seg/test/000522.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000522.png"
+    },
+    "test/000098.jpg": {
+        "image_path": "NEU_Seg/test/000098.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000098.png"
+    },
+    "test/000191.jpg": {
+        "image_path": "NEU_Seg/test/000191.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000191.png"
+    },
+    "test/000237.jpg": {
+        "image_path": "NEU_Seg/test/000237.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000237.png"
+    },
+    "test/000480.jpg": {
+        "image_path": "NEU_Seg/test/000480.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000480.png"
+    },
+    "test/000250.jpg": {
+        "image_path": "NEU_Seg/test/000250.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000250.png"
+    },
+    "test/000817.jpg": {
+        "image_path": "NEU_Seg/test/000817.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000817.png"
+    },
+    "test/000241.jpg": {
+        "image_path": "NEU_Seg/test/000241.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000241.png"
+    },
+    "test/000181.jpg": {
+        "image_path": "NEU_Seg/test/000181.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000181.png"
+    },
+    "test/000587.jpg": {
+        "image_path": "NEU_Seg/test/000587.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000587.png"
+    },
+    "test/000679.jpg": {
+        "image_path": "NEU_Seg/test/000679.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000679.png"
+    },
+    "test/000322.jpg": {
+        "image_path": "NEU_Seg/test/000322.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000322.png"
+    },
+    "test/000752.jpg": {
+        "image_path": "NEU_Seg/test/000752.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000752.png"
+    },
+    "test/000724.jpg": {
+        "image_path": "NEU_Seg/test/000724.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000724.png"
+    },
+    "test/000439.jpg": {
+        "image_path": "NEU_Seg/test/000439.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000439.png"
+    },
+    "test/000456.jpg": {
+        "image_path": "NEU_Seg/test/000456.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000456.png"
+    },
+    "test/000036.jpg": {
+        "image_path": "NEU_Seg/test/000036.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000036.png"
+    },
+    "test/000107.jpg": {
+        "image_path": "NEU_Seg/test/000107.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000107.png"
+    },
+    "test/000082.jpg": {
+        "image_path": "NEU_Seg/test/000082.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000082.png"
+    },
+    "test/000189.jpg": {
+        "image_path": "NEU_Seg/test/000189.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000189.png"
+    },
+    "test/000139.jpg": {
+        "image_path": "NEU_Seg/test/000139.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000139.png"
+    },
+    "test/000238.jpg": {
+        "image_path": "NEU_Seg/test/000238.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000238.png"
+    },
+    "test/000829.jpg": {
+        "image_path": "NEU_Seg/test/000829.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000829.png"
+    },
+    "test/000781.jpg": {
+        "image_path": "NEU_Seg/test/000781.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000781.png"
+    },
+    "test/000027.jpg": {
+        "image_path": "NEU_Seg/test/000027.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000027.png"
+    },
+    "test/000521.jpg": {
+        "image_path": "NEU_Seg/test/000521.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000521.png"
+    },
+    "test/000443.jpg": {
+        "image_path": "NEU_Seg/test/000443.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000443.png"
+    },
+    "test/000266.jpg": {
+        "image_path": "NEU_Seg/test/000266.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000266.png"
+    },
+    "test/000828.jpg": {
+        "image_path": "NEU_Seg/test/000828.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000828.png"
+    },
+    "test/000269.jpg": {
+        "image_path": "NEU_Seg/test/000269.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000269.png"
+    },
+    "test/000543.jpg": {
+        "image_path": "NEU_Seg/test/000543.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000543.png"
+    },
+    "test/000729.jpg": {
+        "image_path": "NEU_Seg/test/000729.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000729.png"
+    },
+    "test/000407.jpg": {
+        "image_path": "NEU_Seg/test/000407.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000407.png"
+    },
+    "test/000339.jpg": {
+        "image_path": "NEU_Seg/test/000339.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000339.png"
+    },
+    "test/000491.jpg": {
+        "image_path": "NEU_Seg/test/000491.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000491.png"
+    },
+    "test/000403.jpg": {
+        "image_path": "NEU_Seg/test/000403.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000403.png"
+    },
+    "test/000751.jpg": {
+        "image_path": "NEU_Seg/test/000751.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000751.png"
+    },
+    "test/000131.jpg": {
+        "image_path": "NEU_Seg/test/000131.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000131.png"
+    },
+    "test/000520.jpg": {
+        "image_path": "NEU_Seg/test/000520.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000520.png"
+    },
+    "test/000816.jpg": {
+        "image_path": "NEU_Seg/test/000816.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000816.png"
+    },
+    "test/000124.jpg": {
+        "image_path": "NEU_Seg/test/000124.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000124.png"
+    },
+    "test/000691.jpg": {
+        "image_path": "NEU_Seg/test/000691.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000691.png"
+    },
+    "test/000242.jpg": {
+        "image_path": "NEU_Seg/test/000242.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000242.png"
+    },
+    "test/000039.jpg": {
+        "image_path": "NEU_Seg/test/000039.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000039.png"
+    },
+    "test/000617.jpg": {
+        "image_path": "NEU_Seg/test/000617.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000617.png"
+    },
+    "test/000803.jpg": {
+        "image_path": "NEU_Seg/test/000803.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000803.png"
+    },
+    "test/000588.jpg": {
+        "image_path": "NEU_Seg/test/000588.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000588.png"
+    },
+    "test/000075.jpg": {
+        "image_path": "NEU_Seg/test/000075.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000075.png"
+    },
+    "test/000111.jpg": {
+        "image_path": "NEU_Seg/test/000111.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000111.png"
+    },
+    "test/000391.jpg": {
+        "image_path": "NEU_Seg/test/000391.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000391.png"
+    },
+    "test/000017.jpg": {
+        "image_path": "NEU_Seg/test/000017.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000017.png"
+    },
+    "test/000106.jpg": {
+        "image_path": "NEU_Seg/test/000106.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000106.png"
+    },
+    "test/000835.jpg": {
+        "image_path": "NEU_Seg/test/000835.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000835.png"
+    },
+    "test/000618.jpg": {
+        "image_path": "NEU_Seg/test/000618.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000618.png"
+    },
+    "test/000202.jpg": {
+        "image_path": "NEU_Seg/test/000202.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000202.png"
+    },
+    "test/000699.jpg": {
+        "image_path": "NEU_Seg/test/000699.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000699.png"
+    },
+    "test/000324.jpg": {
+        "image_path": "NEU_Seg/test/000324.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000324.png"
+    },
+    "test/000050.jpg": {
+        "image_path": "NEU_Seg/test/000050.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000050.png"
+    },
+    "test/000049.jpg": {
+        "image_path": "NEU_Seg/test/000049.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000049.png"
+    },
+    "test/000821.jpg": {
+        "image_path": "NEU_Seg/test/000821.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000821.png"
+    },
+    "test/000148.jpg": {
+        "image_path": "NEU_Seg/test/000148.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000148.png"
+    },
+    "test/000195.jpg": {
+        "image_path": "NEU_Seg/test/000195.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000195.png"
+    },
+    "test/000274.jpg": {
+        "image_path": "NEU_Seg/test/000274.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000274.png"
+    },
+    "test/000085.jpg": {
+        "image_path": "NEU_Seg/test/000085.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000085.png"
+    },
+    "test/000068.jpg": {
+        "image_path": "NEU_Seg/test/000068.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000068.png"
+    },
+    "test/000247.jpg": {
+        "image_path": "NEU_Seg/test/000247.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000247.png"
+    },
+    "test/000692.jpg": {
+        "image_path": "NEU_Seg/test/000692.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000692.png"
+    },
+    "test/000544.jpg": {
+        "image_path": "NEU_Seg/test/000544.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000544.png"
+    },
+    "test/000215.jpg": {
+        "image_path": "NEU_Seg/test/000215.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000215.png"
+    },
+    "test/000596.jpg": {
+        "image_path": "NEU_Seg/test/000596.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000596.png"
+    },
+    "test/000305.jpg": {
+        "image_path": "NEU_Seg/test/000305.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000305.png"
+    },
+    "test/000279.jpg": {
+        "image_path": "NEU_Seg/test/000279.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000279.png"
+    },
+    "test/000444.jpg": {
+        "image_path": "NEU_Seg/test/000444.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000444.png"
+    },
+    "test/000467.jpg": {
+        "image_path": "NEU_Seg/test/000467.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000467.png"
+    },
+    "test/000733.jpg": {
+        "image_path": "NEU_Seg/test/000733.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000733.png"
+    },
+    "test/000451.jpg": {
+        "image_path": "NEU_Seg/test/000451.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000451.png"
+    },
+    "test/000343.jpg": {
+        "image_path": "NEU_Seg/test/000343.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000343.png"
+    },
+    "test/000489.jpg": {
+        "image_path": "NEU_Seg/test/000489.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000489.png"
+    },
+    "test/000759.jpg": {
+        "image_path": "NEU_Seg/test/000759.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000759.png"
+    },
+    "test/000095.jpg": {
+        "image_path": "NEU_Seg/test/000095.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000095.png"
+    },
+    "test/000608.jpg": {
+        "image_path": "NEU_Seg/test/000608.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000608.png"
+    },
+    "test/000681.jpg": {
+        "image_path": "NEU_Seg/test/000681.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000681.png"
+    },
+    "test/000464.jpg": {
+        "image_path": "NEU_Seg/test/000464.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000464.png"
+    },
+    "test/000024.jpg": {
+        "image_path": "NEU_Seg/test/000024.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000024.png"
+    },
+    "test/000335.jpg": {
+        "image_path": "NEU_Seg/test/000335.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000335.png"
+    },
+    "test/000749.jpg": {
+        "image_path": "NEU_Seg/test/000749.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000749.png"
+    },
+    "test/000756.jpg": {
+        "image_path": "NEU_Seg/test/000756.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000756.png"
+    },
+    "test/000613.jpg": {
+        "image_path": "NEU_Seg/test/000613.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000613.png"
+    },
+    "test/000647.jpg": {
+        "image_path": "NEU_Seg/test/000647.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000647.png"
+    },
+    "test/000364.jpg": {
+        "image_path": "NEU_Seg/test/000364.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000364.png"
+    },
+    "test/000174.jpg": {
+        "image_path": "NEU_Seg/test/000174.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000174.png"
+    },
+    "test/000287.jpg": {
+        "image_path": "NEU_Seg/test/000287.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000287.png"
+    },
+    "test/000747.jpg": {
+        "image_path": "NEU_Seg/test/000747.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000747.png"
+    },
+    "test/000750.jpg": {
+        "image_path": "NEU_Seg/test/000750.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000750.png"
+    },
+    "test/000344.jpg": {
+        "image_path": "NEU_Seg/test/000344.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000344.png"
+    },
+    "test/000216.jpg": {
+        "image_path": "NEU_Seg/test/000216.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000216.png"
+    },
+    "test/000402.jpg": {
+        "image_path": "NEU_Seg/test/000402.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000402.png"
+    },
+    "test/000360.jpg": {
+        "image_path": "NEU_Seg/test/000360.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000360.png"
+    },
+    "test/000278.jpg": {
+        "image_path": "NEU_Seg/test/000278.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000278.png"
+    },
+    "test/000187.jpg": {
+        "image_path": "NEU_Seg/test/000187.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000187.png"
+    },
+    "test/000631.jpg": {
+        "image_path": "NEU_Seg/test/000631.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000631.png"
+    },
+    "test/000284.jpg": {
+        "image_path": "NEU_Seg/test/000284.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000284.png"
+    },
+    "test/000019.jpg": {
+        "image_path": "NEU_Seg/test/000019.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000019.png"
+    },
+    "test/000505.jpg": {
+        "image_path": "NEU_Seg/test/000505.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000505.png"
+    },
+    "test/000797.jpg": {
+        "image_path": "NEU_Seg/test/000797.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000797.png"
+    },
+    "test/000152.jpg": {
+        "image_path": "NEU_Seg/test/000152.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000152.png"
+    },
+    "test/000809.jpg": {
+        "image_path": "NEU_Seg/test/000809.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000809.png"
+    },
+    "test/000458.jpg": {
+        "image_path": "NEU_Seg/test/000458.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000458.png"
+    },
+    "test/000384.jpg": {
+        "image_path": "NEU_Seg/test/000384.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000384.png"
+    },
+    "test/000249.jpg": {
+        "image_path": "NEU_Seg/test/000249.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000249.png"
+    },
+    "test/000748.jpg": {
+        "image_path": "NEU_Seg/test/000748.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000748.png"
+    },
+    "test/000626.jpg": {
+        "image_path": "NEU_Seg/test/000626.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000626.png"
+    },
+    "test/000352.jpg": {
+        "image_path": "NEU_Seg/test/000352.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000352.png"
+    },
+    "test/000680.jpg": {
+        "image_path": "NEU_Seg/test/000680.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000680.png"
+    },
+    "test/000677.jpg": {
+        "image_path": "NEU_Seg/test/000677.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000677.png"
+    },
+    "test/000186.jpg": {
+        "image_path": "NEU_Seg/test/000186.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000186.png"
+    },
+    "test/000005.jpg": {
+        "image_path": "NEU_Seg/test/000005.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000005.png"
+    },
+    "test/000621.jpg": {
+        "image_path": "NEU_Seg/test/000621.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000621.png"
+    },
+    "test/000167.jpg": {
+        "image_path": "NEU_Seg/test/000167.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000167.png"
+    },
+    "test/000669.jpg": {
+        "image_path": "NEU_Seg/test/000669.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000669.png"
+    },
+    "test/000634.jpg": {
+        "image_path": "NEU_Seg/test/000634.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000634.png"
+    },
+    "test/000110.jpg": {
+        "image_path": "NEU_Seg/test/000110.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000110.png"
+    },
+    "test/000361.jpg": {
+        "image_path": "NEU_Seg/test/000361.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000361.png"
+    },
+    "test/000034.jpg": {
+        "image_path": "NEU_Seg/test/000034.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000034.png"
+    },
+    "test/000162.jpg": {
+        "image_path": "NEU_Seg/test/000162.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000162.png"
+    },
+    "test/000665.jpg": {
+        "image_path": "NEU_Seg/test/000665.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000665.png"
+    },
+    "test/000610.jpg": {
+        "image_path": "NEU_Seg/test/000610.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000610.png"
+    },
+    "test/000330.jpg": {
+        "image_path": "NEU_Seg/test/000330.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000330.png"
+    },
+    "test/000819.jpg": {
+        "image_path": "NEU_Seg/test/000819.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000819.png"
+    },
+    "test/000421.jpg": {
+        "image_path": "NEU_Seg/test/000421.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000421.png"
+    },
+    "test/000412.jpg": {
+        "image_path": "NEU_Seg/test/000412.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000412.png"
+    },
+    "test/000118.jpg": {
+        "image_path": "NEU_Seg/test/000118.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000118.png"
+    },
+    "test/000551.jpg": {
+        "image_path": "NEU_Seg/test/000551.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000551.png"
+    },
+    "test/000721.jpg": {
+        "image_path": "NEU_Seg/test/000721.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000721.png"
+    },
+    "test/000296.jpg": {
+        "image_path": "NEU_Seg/test/000296.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000296.png"
+    },
+    "test/000433.jpg": {
+        "image_path": "NEU_Seg/test/000433.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000433.png"
+    },
+    "test/000137.jpg": {
+        "image_path": "NEU_Seg/test/000137.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000137.png"
+    },
+    "test/000516.jpg": {
+        "image_path": "NEU_Seg/test/000516.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000516.png"
+    },
+    "test/000426.jpg": {
+        "image_path": "NEU_Seg/test/000426.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000426.png"
+    },
+    "test/000525.jpg": {
+        "image_path": "NEU_Seg/test/000525.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000525.png"
+    },
+    "test/000435.jpg": {
+        "image_path": "NEU_Seg/test/000435.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000435.png"
+    },
+    "test/000408.jpg": {
+        "image_path": "NEU_Seg/test/000408.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000408.png"
+    },
+    "test/000326.jpg": {
+        "image_path": "NEU_Seg/test/000326.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000326.png"
+    },
+    "test/000644.jpg": {
+        "image_path": "NEU_Seg/test/000644.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000644.png"
+    },
+    "test/000723.jpg": {
+        "image_path": "NEU_Seg/test/000723.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000723.png"
+    },
+    "test/000419.jpg": {
+        "image_path": "NEU_Seg/test/000419.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000419.png"
+    },
+    "test/000625.jpg": {
+        "image_path": "NEU_Seg/test/000625.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000625.png"
+    },
+    "test/000690.jpg": {
+        "image_path": "NEU_Seg/test/000690.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000690.png"
+    },
+    "test/000073.jpg": {
+        "image_path": "NEU_Seg/test/000073.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000073.png"
+    },
+    "test/000826.jpg": {
+        "image_path": "NEU_Seg/test/000826.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000826.png"
+    },
+    "test/000291.jpg": {
+        "image_path": "NEU_Seg/test/000291.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000291.png"
+    },
+    "test/000466.jpg": {
+        "image_path": "NEU_Seg/test/000466.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000466.png"
+    },
+    "test/000772.jpg": {
+        "image_path": "NEU_Seg/test/000772.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000772.png"
+    },
+    "test/000786.jpg": {
+        "image_path": "NEU_Seg/test/000786.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000786.png"
+    },
+    "test/000044.jpg": {
+        "image_path": "NEU_Seg/test/000044.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000044.png"
+    },
+    "test/000151.jpg": {
+        "image_path": "NEU_Seg/test/000151.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000151.png"
+    },
+    "test/000317.jpg": {
+        "image_path": "NEU_Seg/test/000317.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000317.png"
+    },
+    "test/000025.jpg": {
+        "image_path": "NEU_Seg/test/000025.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000025.png"
+    },
+    "test/000119.jpg": {
+        "image_path": "NEU_Seg/test/000119.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000119.png"
+    },
+    "test/000656.jpg": {
+        "image_path": "NEU_Seg/test/000656.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000656.png"
+    },
+    "test/000675.jpg": {
+        "image_path": "NEU_Seg/test/000675.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000675.png"
+    },
+    "test/000001.jpg": {
+        "image_path": "NEU_Seg/test/000001.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000001.png"
+    },
+    "test/000740.jpg": {
+        "image_path": "NEU_Seg/test/000740.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000740.png"
+    },
+    "test/000297.jpg": {
+        "image_path": "NEU_Seg/test/000297.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000297.png"
+    },
+    "test/000820.jpg": {
+        "image_path": "NEU_Seg/test/000820.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000820.png"
+    },
+    "test/000188.jpg": {
+        "image_path": "NEU_Seg/test/000188.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000188.png"
+    },
+    "test/000089.jpg": {
+        "image_path": "NEU_Seg/test/000089.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000089.png"
+    },
+    "test/000090.jpg": {
+        "image_path": "NEU_Seg/test/000090.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000090.png"
+    },
+    "test/000790.jpg": {
+        "image_path": "NEU_Seg/test/000790.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000790.png"
+    },
+    "test/000012.jpg": {
+        "image_path": "NEU_Seg/test/000012.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000012.png"
+    },
+    "test/000485.jpg": {
+        "image_path": "NEU_Seg/test/000485.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000485.png"
+    },
+    "test/000265.jpg": {
+        "image_path": "NEU_Seg/test/000265.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000265.png"
+    },
+    "test/000058.jpg": {
+        "image_path": "NEU_Seg/test/000058.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000058.png"
+    },
+    "test/000004.jpg": {
+        "image_path": "NEU_Seg/test/000004.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000004.png"
+    },
+    "test/000072.jpg": {
+        "image_path": "NEU_Seg/test/000072.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000072.png"
+    },
+    "test/000267.jpg": {
+        "image_path": "NEU_Seg/test/000267.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000267.png"
+    },
+    "test/000286.jpg": {
+        "image_path": "NEU_Seg/test/000286.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000286.png"
+    },
+    "test/000164.jpg": {
+        "image_path": "NEU_Seg/test/000164.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000164.png"
+    },
+    "test/000603.jpg": {
+        "image_path": "NEU_Seg/test/000603.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000603.png"
+    },
+    "test/000450.jpg": {
+        "image_path": "NEU_Seg/test/000450.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000450.png"
+    },
+    "test/000601.jpg": {
+        "image_path": "NEU_Seg/test/000601.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000601.png"
+    },
+    "test/000771.jpg": {
+        "image_path": "NEU_Seg/test/000771.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000771.png"
+    },
+    "test/000081.jpg": {
+        "image_path": "NEU_Seg/test/000081.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000081.png"
+    },
+    "test/000129.jpg": {
+        "image_path": "NEU_Seg/test/000129.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000129.png"
+    },
+    "test/000537.jpg": {
+        "image_path": "NEU_Seg/test/000537.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000537.png"
+    },
+    "test/000064.jpg": {
+        "image_path": "NEU_Seg/test/000064.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000064.png"
+    },
+    "test/000462.jpg": {
+        "image_path": "NEU_Seg/test/000462.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000462.png"
+    },
+    "test/000125.jpg": {
+        "image_path": "NEU_Seg/test/000125.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000125.png"
+    },
+    "test/000801.jpg": {
+        "image_path": "NEU_Seg/test/000801.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000801.png"
+    },
+    "test/000193.jpg": {
+        "image_path": "NEU_Seg/test/000193.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000193.png"
+    },
+    "test/000509.jpg": {
+        "image_path": "NEU_Seg/test/000509.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000509.png"
+    },
+    "test/000325.jpg": {
+        "image_path": "NEU_Seg/test/000325.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000325.png"
+    },
+    "test/000440.jpg": {
+        "image_path": "NEU_Seg/test/000440.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000440.png"
+    },
+    "test/000309.jpg": {
+        "image_path": "NEU_Seg/test/000309.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000309.png"
+    },
+    "test/000013.jpg": {
+        "image_path": "NEU_Seg/test/000013.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000013.png"
+    },
+    "test/000539.jpg": {
+        "image_path": "NEU_Seg/test/000539.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000539.png"
+    },
+    "test/000814.jpg": {
+        "image_path": "NEU_Seg/test/000814.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000814.png"
+    },
+    "test/000048.jpg": {
+        "image_path": "NEU_Seg/test/000048.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000048.png"
+    },
+    "test/000294.jpg": {
+        "image_path": "NEU_Seg/test/000294.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000294.png"
+    },
+    "test/000468.jpg": {
+        "image_path": "NEU_Seg/test/000468.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000468.png"
+    },
+    "test/000199.jpg": {
+        "image_path": "NEU_Seg/test/000199.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000199.png"
+    },
+    "test/000256.jpg": {
+        "image_path": "NEU_Seg/test/000256.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000256.png"
+    },
+    "test/000719.jpg": {
+        "image_path": "NEU_Seg/test/000719.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000719.png"
+    },
+    "test/000221.jpg": {
+        "image_path": "NEU_Seg/test/000221.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000221.png"
+    },
+    "test/000512.jpg": {
+        "image_path": "NEU_Seg/test/000512.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000512.png"
+    },
+    "test/000438.jpg": {
+        "image_path": "NEU_Seg/test/000438.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000438.png"
+    },
+    "test/000295.jpg": {
+        "image_path": "NEU_Seg/test/000295.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000295.png"
+    },
+    "test/000113.jpg": {
+        "image_path": "NEU_Seg/test/000113.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000113.png"
+    },
+    "test/000513.jpg": {
+        "image_path": "NEU_Seg/test/000513.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000513.png"
+    },
+    "test/000105.jpg": {
+        "image_path": "NEU_Seg/test/000105.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000105.png"
+    },
+    "test/000083.jpg": {
+        "image_path": "NEU_Seg/test/000083.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000083.png"
+    },
+    "test/000825.jpg": {
+        "image_path": "NEU_Seg/test/000825.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000825.png"
+    },
+    "test/000725.jpg": {
+        "image_path": "NEU_Seg/test/000725.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000725.png"
+    },
+    "test/000097.jpg": {
+        "image_path": "NEU_Seg/test/000097.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000097.png"
+    },
+    "test/000061.jpg": {
+        "image_path": "NEU_Seg/test/000061.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000061.png"
+    },
+    "test/000366.jpg": {
+        "image_path": "NEU_Seg/test/000366.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000366.png"
+    },
+    "test/000043.jpg": {
+        "image_path": "NEU_Seg/test/000043.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000043.png"
+    },
+    "test/000358.jpg": {
+        "image_path": "NEU_Seg/test/000358.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000358.png"
+    },
+    "test/000693.jpg": {
+        "image_path": "NEU_Seg/test/000693.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000693.png"
+    },
+    "test/000009.jpg": {
+        "image_path": "NEU_Seg/test/000009.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000009.png"
+    },
+    "test/000602.jpg": {
+        "image_path": "NEU_Seg/test/000602.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000602.png"
+    },
+    "test/000564.jpg": {
+        "image_path": "NEU_Seg/test/000564.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000564.png"
+    },
+    "test/000217.jpg": {
+        "image_path": "NEU_Seg/test/000217.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000217.png"
+    },
+    "test/000255.jpg": {
+        "image_path": "NEU_Seg/test/000255.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000255.png"
+    },
+    "test/000769.jpg": {
+        "image_path": "NEU_Seg/test/000769.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000769.png"
+    },
+    "test/000077.jpg": {
+        "image_path": "NEU_Seg/test/000077.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000077.png"
+    },
+    "test/000488.jpg": {
+        "image_path": "NEU_Seg/test/000488.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000488.png"
+    },
+    "test/000116.jpg": {
+        "image_path": "NEU_Seg/test/000116.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000116.png"
+    },
+    "test/000540.jpg": {
+        "image_path": "NEU_Seg/test/000540.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000540.png"
+    },
+    "test/000437.jpg": {
+        "image_path": "NEU_Seg/test/000437.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000437.png"
+    },
+    "test/000117.jpg": {
+        "image_path": "NEU_Seg/test/000117.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000117.png"
+    },
+    "test/000632.jpg": {
+        "image_path": "NEU_Seg/test/000632.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000632.png"
+    },
+    "test/000153.jpg": {
+        "image_path": "NEU_Seg/test/000153.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000153.png"
+    },
+    "test/000671.jpg": {
+        "image_path": "NEU_Seg/test/000671.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000671.png"
+    },
+    "test/000548.jpg": {
+        "image_path": "NEU_Seg/test/000548.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000548.png"
+    },
+    "test/000304.jpg": {
+        "image_path": "NEU_Seg/test/000304.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000304.png"
+    },
+    "test/000697.jpg": {
+        "image_path": "NEU_Seg/test/000697.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000697.png"
+    },
+    "test/000418.jpg": {
+        "image_path": "NEU_Seg/test/000418.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000418.png"
+    },
+    "test/000302.jpg": {
+        "image_path": "NEU_Seg/test/000302.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000302.png"
+    },
+    "test/000735.jpg": {
+        "image_path": "NEU_Seg/test/000735.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000735.png"
+    },
+    "test/000342.jpg": {
+        "image_path": "NEU_Seg/test/000342.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000342.png"
+    },
+    "test/000168.jpg": {
+        "image_path": "NEU_Seg/test/000168.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000168.png"
+    },
+    "test/000367.jpg": {
+        "image_path": "NEU_Seg/test/000367.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000367.png"
+    },
+    "test/000796.jpg": {
+        "image_path": "NEU_Seg/test/000796.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000796.png"
+    },
+    "test/000616.jpg": {
+        "image_path": "NEU_Seg/test/000616.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000616.png"
+    },
+    "test/000299.jpg": {
+        "image_path": "NEU_Seg/test/000299.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000299.png"
+    },
+    "test/000336.jpg": {
+        "image_path": "NEU_Seg/test/000336.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000336.png"
+    },
+    "test/000492.jpg": {
+        "image_path": "NEU_Seg/test/000492.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000492.png"
+    },
+    "test/000282.jpg": {
+        "image_path": "NEU_Seg/test/000282.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000282.png"
+    },
+    "test/000704.jpg": {
+        "image_path": "NEU_Seg/test/000704.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000704.png"
+    },
+    "test/000546.jpg": {
+        "image_path": "NEU_Seg/test/000546.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000546.png"
+    },
+    "test/000392.jpg": {
+        "image_path": "NEU_Seg/test/000392.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000392.png"
+    },
+    "test/000200.jpg": {
+        "image_path": "NEU_Seg/test/000200.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000200.png"
+    },
+    "test/000805.jpg": {
+        "image_path": "NEU_Seg/test/000805.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000805.png"
+    },
+    "test/000836.jpg": {
+        "image_path": "NEU_Seg/test/000836.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000836.png"
+    },
+    "test/000007.jpg": {
+        "image_path": "NEU_Seg/test/000007.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000007.png"
+    },
+    "test/000300.jpg": {
+        "image_path": "NEU_Seg/test/000300.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000300.png"
+    },
+    "test/000827.jpg": {
+        "image_path": "NEU_Seg/test/000827.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000827.png"
+    },
+    "test/000447.jpg": {
+        "image_path": "NEU_Seg/test/000447.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000447.png"
+    },
+    "test/000703.jpg": {
+        "image_path": "NEU_Seg/test/000703.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000703.png"
+    },
+    "test/000276.jpg": {
+        "image_path": "NEU_Seg/test/000276.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000276.png"
+    },
+    "test/000615.jpg": {
+        "image_path": "NEU_Seg/test/000615.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000615.png"
+    },
+    "test/000578.jpg": {
+        "image_path": "NEU_Seg/test/000578.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000578.png"
+    },
+    "test/000524.jpg": {
+        "image_path": "NEU_Seg/test/000524.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000524.png"
+    },
+    "test/000582.jpg": {
+        "image_path": "NEU_Seg/test/000582.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000582.png"
+    },
+    "test/000052.jpg": {
+        "image_path": "NEU_Seg/test/000052.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000052.png"
+    },
+    "test/000791.jpg": {
+        "image_path": "NEU_Seg/test/000791.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000791.png"
+    },
+    "test/000328.jpg": {
+        "image_path": "NEU_Seg/test/000328.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000328.png"
+    },
+    "test/000630.jpg": {
+        "image_path": "NEU_Seg/test/000630.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000630.png"
+    },
+    "test/000142.jpg": {
+        "image_path": "NEU_Seg/test/000142.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000142.png"
+    },
+    "test/000606.jpg": {
+        "image_path": "NEU_Seg/test/000606.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000606.png"
+    },
+    "test/000206.jpg": {
+        "image_path": "NEU_Seg/test/000206.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000206.png"
+    },
+    "test/000799.jpg": {
+        "image_path": "NEU_Seg/test/000799.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000799.png"
+    },
+    "test/000650.jpg": {
+        "image_path": "NEU_Seg/test/000650.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000650.png"
+    },
+    "test/000028.jpg": {
+        "image_path": "NEU_Seg/test/000028.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000028.png"
+    },
+    "test/000196.jpg": {
+        "image_path": "NEU_Seg/test/000196.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000196.png"
+    },
+    "test/000562.jpg": {
+        "image_path": "NEU_Seg/test/000562.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000562.png"
+    },
+    "test/000778.jpg": {
+        "image_path": "NEU_Seg/test/000778.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000778.png"
+    },
+    "test/000399.jpg": {
+        "image_path": "NEU_Seg/test/000399.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000399.png"
+    },
+    "test/000201.jpg": {
+        "image_path": "NEU_Seg/test/000201.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000201.png"
+    },
+    "test/000570.jpg": {
+        "image_path": "NEU_Seg/test/000570.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000570.png"
+    },
+    "test/000158.jpg": {
+        "image_path": "NEU_Seg/test/000158.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000158.png"
+    },
+    "test/000448.jpg": {
+        "image_path": "NEU_Seg/test/000448.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000448.png"
+    },
+    "test/000793.jpg": {
+        "image_path": "NEU_Seg/test/000793.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000793.png"
+    },
+    "test/000731.jpg": {
+        "image_path": "NEU_Seg/test/000731.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000731.png"
+    },
+    "test/000651.jpg": {
+        "image_path": "NEU_Seg/test/000651.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000651.png"
+    },
+    "test/000262.jpg": {
+        "image_path": "NEU_Seg/test/000262.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000262.png"
+    },
+    "test/000026.jpg": {
+        "image_path": "NEU_Seg/test/000026.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000026.png"
+    },
+    "test/000370.jpg": {
+        "image_path": "NEU_Seg/test/000370.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000370.png"
+    },
+    "test/000832.jpg": {
+        "image_path": "NEU_Seg/test/000832.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000832.png"
+    },
+    "test/000434.jpg": {
+        "image_path": "NEU_Seg/test/000434.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000434.png"
+    },
+    "test/000252.jpg": {
+        "image_path": "NEU_Seg/test/000252.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000252.png"
+    },
+    "test/000497.jpg": {
+        "image_path": "NEU_Seg/test/000497.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000497.png"
+    },
+    "test/000700.jpg": {
+        "image_path": "NEU_Seg/test/000700.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000700.png"
+    },
+    "test/000800.jpg": {
+        "image_path": "NEU_Seg/test/000800.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000800.png"
+    },
+    "test/000678.jpg": {
+        "image_path": "NEU_Seg/test/000678.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000678.png"
+    },
+    "test/000312.jpg": {
+        "image_path": "NEU_Seg/test/000312.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000312.png"
+    },
+    "test/000481.jpg": {
+        "image_path": "NEU_Seg/test/000481.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000481.png"
+    },
+    "test/000154.jpg": {
+        "image_path": "NEU_Seg/test/000154.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000154.png"
+    },
+    "test/000357.jpg": {
+        "image_path": "NEU_Seg/test/000357.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000357.png"
+    },
+    "test/000545.jpg": {
+        "image_path": "NEU_Seg/test/000545.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000545.png"
+    },
+    "test/000457.jpg": {
+        "image_path": "NEU_Seg/test/000457.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000457.png"
+    },
+    "test/000810.jpg": {
+        "image_path": "NEU_Seg/test/000810.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000810.png"
+    },
+    "test/000396.jpg": {
+        "image_path": "NEU_Seg/test/000396.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000396.png"
+    },
+    "test/000047.jpg": {
+        "image_path": "NEU_Seg/test/000047.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000047.png"
+    },
+    "test/000177.jpg": {
+        "image_path": "NEU_Seg/test/000177.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000177.png"
+    },
+    "test/000474.jpg": {
+        "image_path": "NEU_Seg/test/000474.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000474.png"
+    },
+    "test/000030.jpg": {
+        "image_path": "NEU_Seg/test/000030.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000030.png"
+    },
+    "test/000567.jpg": {
+        "image_path": "NEU_Seg/test/000567.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000567.png"
+    },
+    "test/000194.jpg": {
+        "image_path": "NEU_Seg/test/000194.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000194.png"
+    },
+    "test/000368.jpg": {
+        "image_path": "NEU_Seg/test/000368.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000368.png"
+    },
+    "test/000654.jpg": {
+        "image_path": "NEU_Seg/test/000654.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000654.png"
+    },
+    "test/000708.jpg": {
+        "image_path": "NEU_Seg/test/000708.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000708.png"
+    },
+    "test/000057.jpg": {
+        "image_path": "NEU_Seg/test/000057.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000057.png"
+    },
+    "test/000100.jpg": {
+        "image_path": "NEU_Seg/test/000100.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000100.png"
+    },
+    "test/000711.jpg": {
+        "image_path": "NEU_Seg/test/000711.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000711.png"
+    },
+    "test/000701.jpg": {
+        "image_path": "NEU_Seg/test/000701.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000701.png"
+    },
+    "test/000165.jpg": {
+        "image_path": "NEU_Seg/test/000165.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000165.png"
+    },
+    "test/000765.jpg": {
+        "image_path": "NEU_Seg/test/000765.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000765.png"
+    },
+    "test/000547.jpg": {
+        "image_path": "NEU_Seg/test/000547.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000547.png"
+    },
+    "test/000785.jpg": {
+        "image_path": "NEU_Seg/test/000785.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000785.png"
+    },
+    "test/000260.jpg": {
+        "image_path": "NEU_Seg/test/000260.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000260.png"
+    },
+    "test/000589.jpg": {
+        "image_path": "NEU_Seg/test/000589.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000589.png"
+    },
+    "test/000235.jpg": {
+        "image_path": "NEU_Seg/test/000235.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000235.png"
+    },
+    "test/000517.jpg": {
+        "image_path": "NEU_Seg/test/000517.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000517.png"
+    },
+    "test/000257.jpg": {
+        "image_path": "NEU_Seg/test/000257.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000257.png"
+    },
+    "test/000709.jpg": {
+        "image_path": "NEU_Seg/test/000709.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000709.png"
+    },
+    "test/000550.jpg": {
+        "image_path": "NEU_Seg/test/000550.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000550.png"
+    },
+    "test/000684.jpg": {
+        "image_path": "NEU_Seg/test/000684.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000684.png"
+    },
+    "test/000745.jpg": {
+        "image_path": "NEU_Seg/test/000745.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000745.png"
+    },
+    "test/000018.jpg": {
+        "image_path": "NEU_Seg/test/000018.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000018.png"
+    },
+    "test/000264.jpg": {
+        "image_path": "NEU_Seg/test/000264.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000264.png"
+    },
+    "test/000806.jpg": {
+        "image_path": "NEU_Seg/test/000806.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000806.png"
+    },
+    "test/000432.jpg": {
+        "image_path": "NEU_Seg/test/000432.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000432.png"
+    },
+    "test/000394.jpg": {
+        "image_path": "NEU_Seg/test/000394.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000394.png"
+    },
+    "test/000761.jpg": {
+        "image_path": "NEU_Seg/test/000761.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000761.png"
+    },
+    "test/000122.jpg": {
+        "image_path": "NEU_Seg/test/000122.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000122.png"
+    },
+    "test/000086.jpg": {
+        "image_path": "NEU_Seg/test/000086.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000086.png"
+    },
+    "test/000069.jpg": {
+        "image_path": "NEU_Seg/test/000069.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000069.png"
+    },
+    "test/000795.jpg": {
+        "image_path": "NEU_Seg/test/000795.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000795.png"
+    },
+    "test/000611.jpg": {
+        "image_path": "NEU_Seg/test/000611.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000611.png"
+    },
+    "test/000449.jpg": {
+        "image_path": "NEU_Seg/test/000449.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000449.png"
+    },
+    "test/000023.jpg": {
+        "image_path": "NEU_Seg/test/000023.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000023.png"
+    },
+    "test/000218.jpg": {
+        "image_path": "NEU_Seg/test/000218.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000218.png"
+    },
+    "test/000080.jpg": {
+        "image_path": "NEU_Seg/test/000080.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000080.png"
+    },
+    "test/000159.jpg": {
+        "image_path": "NEU_Seg/test/000159.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000159.png"
+    },
+    "test/000010.jpg": {
+        "image_path": "NEU_Seg/test/000010.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000010.png"
+    },
+    "test/000038.jpg": {
+        "image_path": "NEU_Seg/test/000038.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000038.png"
+    },
+    "test/000808.jpg": {
+        "image_path": "NEU_Seg/test/000808.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000808.png"
+    },
+    "test/000659.jpg": {
+        "image_path": "NEU_Seg/test/000659.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000659.png"
+    },
+    "test/000473.jpg": {
+        "image_path": "NEU_Seg/test/000473.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000473.png"
+    },
+    "test/000088.jpg": {
+        "image_path": "NEU_Seg/test/000088.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000088.png"
+    },
+    "test/000171.jpg": {
+        "image_path": "NEU_Seg/test/000171.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000171.png"
+    },
+    "test/000643.jpg": {
+        "image_path": "NEU_Seg/test/000643.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000643.png"
+    },
+    "test/000775.jpg": {
+        "image_path": "NEU_Seg/test/000775.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000775.png"
+    },
+    "test/000529.jpg": {
+        "image_path": "NEU_Seg/test/000529.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000529.png"
+    },
+    "test/000016.jpg": {
+        "image_path": "NEU_Seg/test/000016.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000016.png"
+    },
+    "test/000022.jpg": {
+        "image_path": "NEU_Seg/test/000022.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000022.png"
+    },
+    "test/000283.jpg": {
+        "image_path": "NEU_Seg/test/000283.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000283.png"
+    },
+    "test/000683.jpg": {
+        "image_path": "NEU_Seg/test/000683.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000683.png"
+    },
+    "test/000713.jpg": {
+        "image_path": "NEU_Seg/test/000713.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000713.png"
+    },
+    "test/000568.jpg": {
+        "image_path": "NEU_Seg/test/000568.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000568.png"
+    },
+    "test/000742.jpg": {
+        "image_path": "NEU_Seg/test/000742.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000742.png"
+    },
+    "test/000663.jpg": {
+        "image_path": "NEU_Seg/test/000663.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000663.png"
+    },
+    "test/000331.jpg": {
+        "image_path": "NEU_Seg/test/000331.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000331.png"
+    },
+    "test/000714.jpg": {
+        "image_path": "NEU_Seg/test/000714.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000714.png"
+    },
+    "test/000387.jpg": {
+        "image_path": "NEU_Seg/test/000387.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000387.png"
+    },
+    "test/000552.jpg": {
+        "image_path": "NEU_Seg/test/000552.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000552.png"
+    },
+    "test/000722.jpg": {
+        "image_path": "NEU_Seg/test/000722.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000722.png"
+    },
+    "test/000707.jpg": {
+        "image_path": "NEU_Seg/test/000707.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000707.png"
+    },
+    "test/000696.jpg": {
+        "image_path": "NEU_Seg/test/000696.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000696.png"
+    },
+    "test/000500.jpg": {
+        "image_path": "NEU_Seg/test/000500.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000500.png"
+    },
+    "test/000245.jpg": {
+        "image_path": "NEU_Seg/test/000245.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000245.png"
+    },
+    "test/000442.jpg": {
+        "image_path": "NEU_Seg/test/000442.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000442.png"
+    },
+    "test/000014.jpg": {
+        "image_path": "NEU_Seg/test/000014.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000014.png"
+    },
+    "test/000377.jpg": {
+        "image_path": "NEU_Seg/test/000377.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000377.png"
+    },
+    "test/000375.jpg": {
+        "image_path": "NEU_Seg/test/000375.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000375.png"
+    },
+    "test/000710.jpg": {
+        "image_path": "NEU_Seg/test/000710.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000710.png"
+    },
+    "test/000401.jpg": {
+        "image_path": "NEU_Seg/test/000401.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000401.png"
+    },
+    "test/000120.jpg": {
+        "image_path": "NEU_Seg/test/000120.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000120.png"
+    },
+    "test/000840.jpg": {
+        "image_path": "NEU_Seg/test/000840.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000840.png"
+    },
+    "test/000349.jpg": {
+        "image_path": "NEU_Seg/test/000349.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000349.png"
+    },
+    "test/000687.jpg": {
+        "image_path": "NEU_Seg/test/000687.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000687.png"
+    },
+    "test/000461.jpg": {
+        "image_path": "NEU_Seg/test/000461.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000461.png"
+    },
+    "test/000233.jpg": {
+        "image_path": "NEU_Seg/test/000233.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000233.png"
+    },
+    "test/000146.jpg": {
+        "image_path": "NEU_Seg/test/000146.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000146.png"
+    },
+    "test/000208.jpg": {
+        "image_path": "NEU_Seg/test/000208.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000208.png"
+    },
+    "test/000382.jpg": {
+        "image_path": "NEU_Seg/test/000382.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000382.png"
+    },
+    "test/000581.jpg": {
+        "image_path": "NEU_Seg/test/000581.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000581.png"
+    },
+    "test/000636.jpg": {
+        "image_path": "NEU_Seg/test/000636.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000636.png"
+    },
+    "test/000277.jpg": {
+        "image_path": "NEU_Seg/test/000277.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000277.png"
+    },
+    "test/000585.jpg": {
+        "image_path": "NEU_Seg/test/000585.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000585.png"
+    },
+    "test/000768.jpg": {
+        "image_path": "NEU_Seg/test/000768.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000768.png"
+    },
+    "test/000198.jpg": {
+        "image_path": "NEU_Seg/test/000198.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000198.png"
+    },
+    "test/000764.jpg": {
+        "image_path": "NEU_Seg/test/000764.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000764.png"
+    },
+    "test/000580.jpg": {
+        "image_path": "NEU_Seg/test/000580.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000580.png"
+    },
+    "test/000347.jpg": {
+        "image_path": "NEU_Seg/test/000347.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000347.png"
+    },
+    "test/000133.jpg": {
+        "image_path": "NEU_Seg/test/000133.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000133.png"
+    },
+    "test/000737.jpg": {
+        "image_path": "NEU_Seg/test/000737.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000737.png"
+    },
+    "test/000094.jpg": {
+        "image_path": "NEU_Seg/test/000094.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000094.png"
+    },
+    "test/000380.jpg": {
+        "image_path": "NEU_Seg/test/000380.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000380.png"
+    },
+    "test/000645.jpg": {
+        "image_path": "NEU_Seg/test/000645.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000645.png"
+    },
+    "test/000134.jpg": {
+        "image_path": "NEU_Seg/test/000134.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000134.png"
+    },
+    "test/000441.jpg": {
+        "image_path": "NEU_Seg/test/000441.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000441.png"
+    },
+    "test/000558.jpg": {
+        "image_path": "NEU_Seg/test/000558.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000558.png"
+    },
+    "test/000424.jpg": {
+        "image_path": "NEU_Seg/test/000424.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000424.png"
+    },
+    "test/000203.jpg": {
+        "image_path": "NEU_Seg/test/000203.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000203.png"
+    },
+    "test/000560.jpg": {
+        "image_path": "NEU_Seg/test/000560.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000560.png"
+    },
+    "test/000210.jpg": {
+        "image_path": "NEU_Seg/test/000210.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000210.png"
+    },
+    "test/000499.jpg": {
+        "image_path": "NEU_Seg/test/000499.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000499.png"
+    },
+    "test/000579.jpg": {
+        "image_path": "NEU_Seg/test/000579.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000579.png"
+    },
+    "test/000308.jpg": {
+        "image_path": "NEU_Seg/test/000308.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000308.png"
+    },
+    "test/000788.jpg": {
+        "image_path": "NEU_Seg/test/000788.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000788.png"
+    },
+    "test/000096.jpg": {
+        "image_path": "NEU_Seg/test/000096.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000096.png"
+    },
+    "test/000619.jpg": {
+        "image_path": "NEU_Seg/test/000619.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000619.png"
+    },
+    "test/000003.jpg": {
+        "image_path": "NEU_Seg/test/000003.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000003.png"
+    },
+    "test/000227.jpg": {
+        "image_path": "NEU_Seg/test/000227.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000227.png"
+    },
+    "test/000225.jpg": {
+        "image_path": "NEU_Seg/test/000225.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000225.png"
+    },
+    "test/000475.jpg": {
+        "image_path": "NEU_Seg/test/000475.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000475.png"
+    },
+    "test/000660.jpg": {
+        "image_path": "NEU_Seg/test/000660.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000660.png"
+    },
+    "test/000823.jpg": {
+        "image_path": "NEU_Seg/test/000823.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000823.png"
+    },
+    "test/000281.jpg": {
+        "image_path": "NEU_Seg/test/000281.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000281.png"
+    },
+    "test/000204.jpg": {
+        "image_path": "NEU_Seg/test/000204.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000204.png"
+    },
+    "test/000071.jpg": {
+        "image_path": "NEU_Seg/test/000071.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000071.png"
+    },
+    "test/000682.jpg": {
+        "image_path": "NEU_Seg/test/000682.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000682.png"
+    },
+    "test/000676.jpg": {
+        "image_path": "NEU_Seg/test/000676.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000676.png"
+    },
+    "test/000487.jpg": {
+        "image_path": "NEU_Seg/test/000487.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000487.png"
+    },
+    "test/000477.jpg": {
+        "image_path": "NEU_Seg/test/000477.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000477.png"
+    },
+    "test/000172.jpg": {
+        "image_path": "NEU_Seg/test/000172.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000172.png"
+    },
+    "test/000378.jpg": {
+        "image_path": "NEU_Seg/test/000378.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000378.png"
+    },
+    "test/000648.jpg": {
+        "image_path": "NEU_Seg/test/000648.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000648.png"
+    },
+    "test/000702.jpg": {
+        "image_path": "NEU_Seg/test/000702.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000702.png"
+    },
+    "test/000272.jpg": {
+        "image_path": "NEU_Seg/test/000272.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000272.png"
+    },
+    "test/000222.jpg": {
+        "image_path": "NEU_Seg/test/000222.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000222.png"
+    },
+    "test/000053.jpg": {
+        "image_path": "NEU_Seg/test/000053.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000053.png"
+    },
+    "test/000059.jpg": {
+        "image_path": "NEU_Seg/test/000059.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000059.png"
+    },
+    "test/000727.jpg": {
+        "image_path": "NEU_Seg/test/000727.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000727.png"
+    },
+    "test/000362.jpg": {
+        "image_path": "NEU_Seg/test/000362.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000362.png"
+    },
+    "test/000574.jpg": {
+        "image_path": "NEU_Seg/test/000574.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000574.png"
+    },
+    "test/000460.jpg": {
+        "image_path": "NEU_Seg/test/000460.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000460.png"
+    },
+    "test/000762.jpg": {
+        "image_path": "NEU_Seg/test/000762.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000762.png"
+    },
+    "test/000506.jpg": {
+        "image_path": "NEU_Seg/test/000506.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000506.png"
+    },
+    "test/000346.jpg": {
+        "image_path": "NEU_Seg/test/000346.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000346.png"
+    },
+    "test/000109.jpg": {
+        "image_path": "NEU_Seg/test/000109.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000109.png"
+    },
+    "test/000180.jpg": {
+        "image_path": "NEU_Seg/test/000180.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000180.png"
+    },
+    "test/000128.jpg": {
+        "image_path": "NEU_Seg/test/000128.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000128.png"
+    },
+    "test/000519.jpg": {
+        "image_path": "NEU_Seg/test/000519.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000519.png"
+    },
+    "test/000818.jpg": {
+        "image_path": "NEU_Seg/test/000818.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000818.png"
+    },
+    "test/000559.jpg": {
+        "image_path": "NEU_Seg/test/000559.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000559.png"
+    },
+    "test/000243.jpg": {
+        "image_path": "NEU_Seg/test/000243.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000243.png"
+    },
+    "test/000802.jpg": {
+        "image_path": "NEU_Seg/test/000802.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000802.png"
+    },
+    "test/000824.jpg": {
+        "image_path": "NEU_Seg/test/000824.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000824.png"
+    },
+    "test/000136.jpg": {
+        "image_path": "NEU_Seg/test/000136.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000136.png"
+    },
+    "test/000398.jpg": {
+        "image_path": "NEU_Seg/test/000398.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000398.png"
+    },
+    "test/000114.jpg": {
+        "image_path": "NEU_Seg/test/000114.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000114.png"
+    },
+    "test/000755.jpg": {
+        "image_path": "NEU_Seg/test/000755.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000755.png"
+    },
+    "test/000577.jpg": {
+        "image_path": "NEU_Seg/test/000577.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000577.png"
+    },
+    "test/000179.jpg": {
+        "image_path": "NEU_Seg/test/000179.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000179.png"
+    },
+    "test/000350.jpg": {
+        "image_path": "NEU_Seg/test/000350.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000350.png"
+    },
+    "test/000178.jpg": {
+        "image_path": "NEU_Seg/test/000178.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000178.png"
+    },
+    "test/000234.jpg": {
+        "image_path": "NEU_Seg/test/000234.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000234.png"
+    },
+    "test/000404.jpg": {
+        "image_path": "NEU_Seg/test/000404.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000404.png"
+    },
+    "test/000563.jpg": {
+        "image_path": "NEU_Seg/test/000563.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000563.png"
+    },
+    "test/000417.jpg": {
+        "image_path": "NEU_Seg/test/000417.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000417.png"
+    },
+    "test/000388.jpg": {
+        "image_path": "NEU_Seg/test/000388.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000388.png"
+    },
+    "test/000812.jpg": {
+        "image_path": "NEU_Seg/test/000812.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000812.png"
+    },
+    "test/000736.jpg": {
+        "image_path": "NEU_Seg/test/000736.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000736.png"
+    },
+    "test/000428.jpg": {
+        "image_path": "NEU_Seg/test/000428.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000428.png"
+    },
+    "test/000573.jpg": {
+        "image_path": "NEU_Seg/test/000573.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000573.png"
+    },
+    "test/000270.jpg": {
+        "image_path": "NEU_Seg/test/000270.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000270.png"
+    },
+    "test/000006.jpg": {
+        "image_path": "NEU_Seg/test/000006.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000006.png"
+    },
+    "test/000653.jpg": {
+        "image_path": "NEU_Seg/test/000653.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000653.png"
+    },
+    "test/000715.jpg": {
+        "image_path": "NEU_Seg/test/000715.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000715.png"
+    },
+    "test/000469.jpg": {
+        "image_path": "NEU_Seg/test/000469.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000469.png"
+    },
+    "test/000144.jpg": {
+        "image_path": "NEU_Seg/test/000144.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000144.png"
+    },
+    "test/000359.jpg": {
+        "image_path": "NEU_Seg/test/000359.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000359.png"
+    },
+    "test/000667.jpg": {
+        "image_path": "NEU_Seg/test/000667.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000667.png"
+    },
+    "test/000319.jpg": {
+        "image_path": "NEU_Seg/test/000319.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000319.png"
+    },
+    "test/000338.jpg": {
+        "image_path": "NEU_Seg/test/000338.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000338.png"
+    },
+    "test/000393.jpg": {
+        "image_path": "NEU_Seg/test/000393.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000393.png"
+    },
+    "test/000508.jpg": {
+        "image_path": "NEU_Seg/test/000508.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000508.png"
+    },
+    "test/000554.jpg": {
+        "image_path": "NEU_Seg/test/000554.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000554.png"
+    },
+    "test/000689.jpg": {
+        "image_path": "NEU_Seg/test/000689.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000689.png"
+    },
+    "test/000628.jpg": {
+        "image_path": "NEU_Seg/test/000628.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000628.png"
+    },
+    "test/000066.jpg": {
+        "image_path": "NEU_Seg/test/000066.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000066.png"
+    },
+    "test/000738.jpg": {
+        "image_path": "NEU_Seg/test/000738.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000738.png"
+    },
+    "test/000313.jpg": {
+        "image_path": "NEU_Seg/test/000313.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000313.png"
+    },
+    "test/000670.jpg": {
+        "image_path": "NEU_Seg/test/000670.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000670.png"
+    },
+    "test/000374.jpg": {
+        "image_path": "NEU_Seg/test/000374.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000374.png"
+    },
+    "test/000108.jpg": {
+        "image_path": "NEU_Seg/test/000108.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000108.png"
+    },
+    "test/000566.jpg": {
+        "image_path": "NEU_Seg/test/000566.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000566.png"
+    },
+    "test/000414.jpg": {
+        "image_path": "NEU_Seg/test/000414.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000414.png"
+    },
+    "test/000732.jpg": {
+        "image_path": "NEU_Seg/test/000732.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000732.png"
+    },
+    "test/000318.jpg": {
+        "image_path": "NEU_Seg/test/000318.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000318.png"
+    },
+    "test/000770.jpg": {
+        "image_path": "NEU_Seg/test/000770.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000770.png"
+    },
+    "test/000175.jpg": {
+        "image_path": "NEU_Seg/test/000175.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000175.png"
+    },
+    "test/000140.jpg": {
+        "image_path": "NEU_Seg/test/000140.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000140.png"
+    },
+    "test/000224.jpg": {
+        "image_path": "NEU_Seg/test/000224.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000224.png"
+    },
+    "test/000259.jpg": {
+        "image_path": "NEU_Seg/test/000259.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000259.png"
+    },
+    "test/000763.jpg": {
+        "image_path": "NEU_Seg/test/000763.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000763.png"
+    },
+    "test/000504.jpg": {
+        "image_path": "NEU_Seg/test/000504.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000504.png"
+    },
+    "test/000115.jpg": {
+        "image_path": "NEU_Seg/test/000115.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000115.png"
+    },
+    "test/000104.jpg": {
+        "image_path": "NEU_Seg/test/000104.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000104.png"
+    },
+    "test/000774.jpg": {
+        "image_path": "NEU_Seg/test/000774.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000774.png"
+    },
+    "test/000599.jpg": {
+        "image_path": "NEU_Seg/test/000599.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000599.png"
+    },
+    "test/000629.jpg": {
+        "image_path": "NEU_Seg/test/000629.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000629.png"
+    },
+    "test/000340.jpg": {
+        "image_path": "NEU_Seg/test/000340.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000340.png"
+    },
+    "test/000726.jpg": {
+        "image_path": "NEU_Seg/test/000726.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000726.png"
+    },
+    "test/000290.jpg": {
+        "image_path": "NEU_Seg/test/000290.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000290.png"
+    },
+    "test/000739.jpg": {
+        "image_path": "NEU_Seg/test/000739.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000739.png"
+    },
+    "test/000776.jpg": {
+        "image_path": "NEU_Seg/test/000776.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000776.png"
+    },
+    "test/000126.jpg": {
+        "image_path": "NEU_Seg/test/000126.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000126.png"
+    },
+    "test/000337.jpg": {
+        "image_path": "NEU_Seg/test/000337.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000337.png"
+    },
+    "test/000150.jpg": {
+        "image_path": "NEU_Seg/test/000150.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000150.png"
+    },
+    "test/000093.jpg": {
+        "image_path": "NEU_Seg/test/000093.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000093.png"
+    },
+    "test/000363.jpg": {
+        "image_path": "NEU_Seg/test/000363.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000363.png"
+    },
+    "test/000315.jpg": {
+        "image_path": "NEU_Seg/test/000315.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000315.png"
+    },
+    "test/000436.jpg": {
+        "image_path": "NEU_Seg/test/000436.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000436.png"
+    },
+    "test/000042.jpg": {
+        "image_path": "NEU_Seg/test/000042.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000042.png"
+    },
+    "test/000008.jpg": {
+        "image_path": "NEU_Seg/test/000008.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000008.png"
+    },
+    "test/000838.jpg": {
+        "image_path": "NEU_Seg/test/000838.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000838.png"
+    },
+    "test/000528.jpg": {
+        "image_path": "NEU_Seg/test/000528.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000528.png"
+    },
+    "test/000329.jpg": {
+        "image_path": "NEU_Seg/test/000329.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000329.png"
+    },
+    "test/000530.jpg": {
+        "image_path": "NEU_Seg/test/000530.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000530.png"
+    },
+    "test/000583.jpg": {
+        "image_path": "NEU_Seg/test/000583.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000583.png"
+    },
+    "test/000161.jpg": {
+        "image_path": "NEU_Seg/test/000161.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000161.png"
+    },
+    "test/000641.jpg": {
+        "image_path": "NEU_Seg/test/000641.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000641.png"
+    },
+    "test/000649.jpg": {
+        "image_path": "NEU_Seg/test/000649.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000649.png"
+    },
+    "test/000664.jpg": {
+        "image_path": "NEU_Seg/test/000664.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000664.png"
+    },
+    "test/000584.jpg": {
+        "image_path": "NEU_Seg/test/000584.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000584.png"
+    },
+    "test/000486.jpg": {
+        "image_path": "NEU_Seg/test/000486.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000486.png"
+    },
+    "test/000413.jpg": {
+        "image_path": "NEU_Seg/test/000413.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000413.png"
+    },
+    "test/000463.jpg": {
+        "image_path": "NEU_Seg/test/000463.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000463.png"
+    },
+    "test/000103.jpg": {
+        "image_path": "NEU_Seg/test/000103.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000103.png"
+    },
+    "test/000782.jpg": {
+        "image_path": "NEU_Seg/test/000782.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000782.png"
+    },
+    "test/000807.jpg": {
+        "image_path": "NEU_Seg/test/000807.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000807.png"
+    },
+    "test/000427.jpg": {
+        "image_path": "NEU_Seg/test/000427.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000427.png"
+    },
+    "test/000609.jpg": {
+        "image_path": "NEU_Seg/test/000609.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000609.png"
+    },
+    "test/000076.jpg": {
+        "image_path": "NEU_Seg/test/000076.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000076.png"
+    },
+    "test/000535.jpg": {
+        "image_path": "NEU_Seg/test/000535.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000535.png"
+    },
+    "test/000285.jpg": {
+        "image_path": "NEU_Seg/test/000285.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000285.png"
+    },
+    "test/000605.jpg": {
+        "image_path": "NEU_Seg/test/000605.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000605.png"
+    },
+    "test/000209.jpg": {
+        "image_path": "NEU_Seg/test/000209.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000209.png"
+    },
+    "test/000514.jpg": {
+        "image_path": "NEU_Seg/test/000514.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000514.png"
+    },
+    "test/000055.jpg": {
+        "image_path": "NEU_Seg/test/000055.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000055.png"
+    },
+    "test/000416.jpg": {
+        "image_path": "NEU_Seg/test/000416.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000416.png"
+    },
+    "test/000160.jpg": {
+        "image_path": "NEU_Seg/test/000160.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000160.png"
+    },
+    "test/000549.jpg": {
+        "image_path": "NEU_Seg/test/000549.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000549.png"
+    },
+    "test/000789.jpg": {
+        "image_path": "NEU_Seg/test/000789.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000789.png"
+    },
+    "test/000051.jpg": {
+        "image_path": "NEU_Seg/test/000051.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000051.png"
+    },
+    "test/000698.jpg": {
+        "image_path": "NEU_Seg/test/000698.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000698.png"
+    },
+    "test/000743.jpg": {
+        "image_path": "NEU_Seg/test/000743.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000743.png"
+    },
+    "test/000348.jpg": {
+        "image_path": "NEU_Seg/test/000348.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000348.png"
+    },
+    "test/000553.jpg": {
+        "image_path": "NEU_Seg/test/000553.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000553.png"
+    },
+    "test/000445.jpg": {
+        "image_path": "NEU_Seg/test/000445.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000445.png"
+    },
+    "test/000592.jpg": {
+        "image_path": "NEU_Seg/test/000592.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000592.png"
+    },
+    "test/000376.jpg": {
+        "image_path": "NEU_Seg/test/000376.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000376.png"
+    },
+    "test/000390.jpg": {
+        "image_path": "NEU_Seg/test/000390.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000390.png"
+    },
+    "test/000638.jpg": {
+        "image_path": "NEU_Seg/test/000638.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000638.png"
+    },
+    "test/000494.jpg": {
+        "image_path": "NEU_Seg/test/000494.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000494.png"
+    },
+    "test/000640.jpg": {
+        "image_path": "NEU_Seg/test/000640.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000640.png"
+    },
+    "test/000084.jpg": {
+        "image_path": "NEU_Seg/test/000084.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000084.png"
+    },
+    "test/000496.jpg": {
+        "image_path": "NEU_Seg/test/000496.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000496.png"
+    },
+    "test/000624.jpg": {
+        "image_path": "NEU_Seg/test/000624.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000624.png"
+    },
+    "test/000833.jpg": {
+        "image_path": "NEU_Seg/test/000833.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000833.png"
+    },
+    "test/000292.jpg": {
+        "image_path": "NEU_Seg/test/000292.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000292.png"
+    },
+    "test/000415.jpg": {
+        "image_path": "NEU_Seg/test/000415.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000415.png"
+    },
+    "test/000639.jpg": {
+        "image_path": "NEU_Seg/test/000639.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000639.png"
+    },
+    "test/000271.jpg": {
+        "image_path": "NEU_Seg/test/000271.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000271.png"
+    },
+    "test/000063.jpg": {
+        "image_path": "NEU_Seg/test/000063.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000063.png"
+    },
+    "test/000197.jpg": {
+        "image_path": "NEU_Seg/test/000197.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000197.png"
+    },
+    "test/000240.jpg": {
+        "image_path": "NEU_Seg/test/000240.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000240.png"
+    },
+    "test/000155.jpg": {
+        "image_path": "NEU_Seg/test/000155.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000155.png"
+    },
+    "test/000207.jpg": {
+        "image_path": "NEU_Seg/test/000207.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000207.png"
+    },
+    "test/000015.jpg": {
+        "image_path": "NEU_Seg/test/000015.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000015.png"
+    },
+    "test/000385.jpg": {
+        "image_path": "NEU_Seg/test/000385.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000385.png"
+    },
+    "test/000839.jpg": {
+        "image_path": "NEU_Seg/test/000839.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000839.png"
+    },
+    "test/000453.jpg": {
+        "image_path": "NEU_Seg/test/000453.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000453.png"
+    },
+    "test/000834.jpg": {
+        "image_path": "NEU_Seg/test/000834.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000834.png"
+    },
+    "test/000212.jpg": {
+        "image_path": "NEU_Seg/test/000212.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000212.png"
+    },
+    "test/000143.jpg": {
+        "image_path": "NEU_Seg/test/000143.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000143.png"
+    },
+    "test/000541.jpg": {
+        "image_path": "NEU_Seg/test/000541.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000541.png"
+    },
+    "test/000536.jpg": {
+        "image_path": "NEU_Seg/test/000536.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000536.png"
+    },
+    "test/000515.jpg": {
+        "image_path": "NEU_Seg/test/000515.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000515.png"
+    },
+    "test/000223.jpg": {
+        "image_path": "NEU_Seg/test/000223.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000223.png"
+    },
+    "test/000586.jpg": {
+        "image_path": "NEU_Seg/test/000586.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000586.png"
+    },
+    "test/000571.jpg": {
+        "image_path": "NEU_Seg/test/000571.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000571.png"
+    },
+    "test/000482.jpg": {
+        "image_path": "NEU_Seg/test/000482.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000482.png"
+    },
+    "test/000147.jpg": {
+        "image_path": "NEU_Seg/test/000147.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000147.png"
+    },
+    "test/000333.jpg": {
+        "image_path": "NEU_Seg/test/000333.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000333.png"
+    },
+    "test/000472.jpg": {
+        "image_path": "NEU_Seg/test/000472.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000472.png"
+    },
+    "test/000087.jpg": {
+        "image_path": "NEU_Seg/test/000087.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000087.png"
+    },
+    "test/000493.jpg": {
+        "image_path": "NEU_Seg/test/000493.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000493.png"
+    },
+    "test/000316.jpg": {
+        "image_path": "NEU_Seg/test/000316.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000316.png"
+    },
+    "test/000157.jpg": {
+        "image_path": "NEU_Seg/test/000157.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000157.png"
+    },
+    "test/000021.jpg": {
+        "image_path": "NEU_Seg/test/000021.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000021.png"
+    },
+    "test/000557.jpg": {
+        "image_path": "NEU_Seg/test/000557.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000557.png"
+    },
+    "test/000062.jpg": {
+        "image_path": "NEU_Seg/test/000062.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000062.png"
+    },
+    "test/000694.jpg": {
+        "image_path": "NEU_Seg/test/000694.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000694.png"
+    },
+    "test/000730.jpg": {
+        "image_path": "NEU_Seg/test/000730.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000730.png"
+    },
+    "test/000356.jpg": {
+        "image_path": "NEU_Seg/test/000356.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000356.png"
+    },
+    "test/000132.jpg": {
+        "image_path": "NEU_Seg/test/000132.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000132.png"
+    },
+    "test/000657.jpg": {
+        "image_path": "NEU_Seg/test/000657.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000657.png"
+    },
+    "test/000045.jpg": {
+        "image_path": "NEU_Seg/test/000045.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000045.png"
+    },
+    "test/000620.jpg": {
+        "image_path": "NEU_Seg/test/000620.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000620.png"
+    },
+    "test/000612.jpg": {
+        "image_path": "NEU_Seg/test/000612.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000612.png"
+    },
+    "test/000614.jpg": {
+        "image_path": "NEU_Seg/test/000614.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000614.png"
+    },
+    "test/000353.jpg": {
+        "image_path": "NEU_Seg/test/000353.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000353.png"
+    },
+    "test/000688.jpg": {
+        "image_path": "NEU_Seg/test/000688.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000688.png"
+    },
+    "test/000674.jpg": {
+        "image_path": "NEU_Seg/test/000674.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000674.png"
+    },
+    "test/000371.jpg": {
+        "image_path": "NEU_Seg/test/000371.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000371.png"
+    },
+    "test/000780.jpg": {
+        "image_path": "NEU_Seg/test/000780.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000780.png"
+    },
+    "test/000646.jpg": {
+        "image_path": "NEU_Seg/test/000646.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000646.png"
+    },
+    "test/000054.jpg": {
+        "image_path": "NEU_Seg/test/000054.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000054.png"
+    },
+    "test/000479.jpg": {
+        "image_path": "NEU_Seg/test/000479.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000479.png"
+    },
+    "test/000182.jpg": {
+        "image_path": "NEU_Seg/test/000182.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000182.png"
+    },
+    "test/000531.jpg": {
+        "image_path": "NEU_Seg/test/000531.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000531.png"
+    },
+    "test/000228.jpg": {
+        "image_path": "NEU_Seg/test/000228.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000228.png"
+    },
+    "test/000635.jpg": {
+        "image_path": "NEU_Seg/test/000635.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000635.png"
+    },
+    "test/000533.jpg": {
+        "image_path": "NEU_Seg/test/000533.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000533.png"
+    },
+    "test/000334.jpg": {
+        "image_path": "NEU_Seg/test/000334.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000334.png"
+    },
+    "test/000354.jpg": {
+        "image_path": "NEU_Seg/test/000354.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000354.png"
+    },
+    "test/000409.jpg": {
+        "image_path": "NEU_Seg/test/000409.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000409.png"
+    },
+    "test/000523.jpg": {
+        "image_path": "NEU_Seg/test/000523.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000523.png"
+    },
+    "test/000527.jpg": {
+        "image_path": "NEU_Seg/test/000527.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000527.png"
+    },
+    "test/000637.jpg": {
+        "image_path": "NEU_Seg/test/000637.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000637.png"
+    },
+    "test/000185.jpg": {
+        "image_path": "NEU_Seg/test/000185.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000185.png"
+    },
+    "test/000211.jpg": {
+        "image_path": "NEU_Seg/test/000211.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000211.png"
+    },
+    "test/000303.jpg": {
+        "image_path": "NEU_Seg/test/000303.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000303.png"
+    },
+    "test/000507.jpg": {
+        "image_path": "NEU_Seg/test/000507.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000507.png"
+    },
+    "test/000597.jpg": {
+        "image_path": "NEU_Seg/test/000597.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000597.png"
+    },
+    "test/000470.jpg": {
+        "image_path": "NEU_Seg/test/000470.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000470.png"
+    },
+    "test/000310.jpg": {
+        "image_path": "NEU_Seg/test/000310.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000310.png"
+    },
+    "test/000429.jpg": {
+        "image_path": "NEU_Seg/test/000429.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000429.png"
+    },
+    "test/000720.jpg": {
+        "image_path": "NEU_Seg/test/000720.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000720.png"
+    },
+    "test/000369.jpg": {
+        "image_path": "NEU_Seg/test/000369.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000369.png"
+    },
+    "test/000565.jpg": {
+        "image_path": "NEU_Seg/test/000565.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000565.png"
+    },
+    "test/000685.jpg": {
+        "image_path": "NEU_Seg/test/000685.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000685.png"
+    },
+    "test/000642.jpg": {
+        "image_path": "NEU_Seg/test/000642.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000642.png"
+    },
+    "test/000503.jpg": {
+        "image_path": "NEU_Seg/test/000503.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000503.png"
+    },
+    "test/000307.jpg": {
+        "image_path": "NEU_Seg/test/000307.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000307.png"
+    },
+    "test/000037.jpg": {
+        "image_path": "NEU_Seg/test/000037.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000037.png"
+    },
+    "test/000498.jpg": {
+        "image_path": "NEU_Seg/test/000498.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000498.png"
+    },
+    "test/000041.jpg": {
+        "image_path": "NEU_Seg/test/000041.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000041.png"
+    },
+    "test/000734.jpg": {
+        "image_path": "NEU_Seg/test/000734.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000734.png"
+    },
+    "test/000205.jpg": {
+        "image_path": "NEU_Seg/test/000205.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000205.png"
+    },
+    "test/000138.jpg": {
+        "image_path": "NEU_Seg/test/000138.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000138.png"
+    },
+    "test/000686.jpg": {
+        "image_path": "NEU_Seg/test/000686.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000686.png"
+    },
+    "test/000431.jpg": {
+        "image_path": "NEU_Seg/test/000431.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000431.png"
+    },
+    "test/000459.jpg": {
+        "image_path": "NEU_Seg/test/000459.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000459.png"
+    },
+    "test/000060.jpg": {
+        "image_path": "NEU_Seg/test/000060.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000060.png"
+    },
+    "test/000386.jpg": {
+        "image_path": "NEU_Seg/test/000386.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000386.png"
+    },
+    "test/000395.jpg": {
+        "image_path": "NEU_Seg/test/000395.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000395.png"
+    },
+    "test/000471.jpg": {
+        "image_path": "NEU_Seg/test/000471.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000471.png"
+    },
+    "test/000430.jpg": {
+        "image_path": "NEU_Seg/test/000430.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000430.png"
+    },
+    "test/000532.jpg": {
+        "image_path": "NEU_Seg/test/000532.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000532.png"
+    },
+    "test/000298.jpg": {
+        "image_path": "NEU_Seg/test/000298.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000298.png"
+    },
+    "test/000627.jpg": {
+        "image_path": "NEU_Seg/test/000627.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000627.png"
+    },
+    "test/000166.jpg": {
+        "image_path": "NEU_Seg/test/000166.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000166.png"
+    },
+    "test/000135.jpg": {
+        "image_path": "NEU_Seg/test/000135.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000135.png"
+    },
+    "test/000556.jpg": {
+        "image_path": "NEU_Seg/test/000556.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000556.png"
+    },
+    "test/000673.jpg": {
+        "image_path": "NEU_Seg/test/000673.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000673.png"
+    },
+    "test/000423.jpg": {
+        "image_path": "NEU_Seg/test/000423.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000423.png"
+    },
+    "test/000232.jpg": {
+        "image_path": "NEU_Seg/test/000232.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000232.png"
+    },
+    "test/000813.jpg": {
+        "image_path": "NEU_Seg/test/000813.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000813.png"
+    },
+    "test/000672.jpg": {
+        "image_path": "NEU_Seg/test/000672.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000672.png"
+    },
+    "test/000365.jpg": {
+        "image_path": "NEU_Seg/test/000365.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000365.png"
+    },
+    "test/000092.jpg": {
+        "image_path": "NEU_Seg/test/000092.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000092.png"
+    },
+    "test/000783.jpg": {
+        "image_path": "NEU_Seg/test/000783.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000783.png"
+    },
+    "test/000251.jpg": {
+        "image_path": "NEU_Seg/test/000251.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000251.png"
+    },
+    "test/000156.jpg": {
+        "image_path": "NEU_Seg/test/000156.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000156.png"
+    },
+    "test/000320.jpg": {
+        "image_path": "NEU_Seg/test/000320.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000320.png"
+    },
+    "test/000668.jpg": {
+        "image_path": "NEU_Seg/test/000668.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000668.png"
+    },
+    "test/000476.jpg": {
+        "image_path": "NEU_Seg/test/000476.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000476.png"
+    },
+    "test/000183.jpg": {
+        "image_path": "NEU_Seg/test/000183.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000183.png"
+    },
+    "test/000355.jpg": {
+        "image_path": "NEU_Seg/test/000355.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000355.png"
+    },
+    "test/000760.jpg": {
+        "image_path": "NEU_Seg/test/000760.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000760.png"
+    },
+    "test/000033.jpg": {
+        "image_path": "NEU_Seg/test/000033.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000033.png"
+    },
+    "test/000658.jpg": {
+        "image_path": "NEU_Seg/test/000658.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000658.png"
+    },
+    "test/000716.jpg": {
+        "image_path": "NEU_Seg/test/000716.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000716.png"
+    },
+    "test/000258.jpg": {
+        "image_path": "NEU_Seg/test/000258.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000258.png"
+    },
+    "test/000184.jpg": {
+        "image_path": "NEU_Seg/test/000184.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000184.png"
+    },
+    "test/000717.jpg": {
+        "image_path": "NEU_Seg/test/000717.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000717.png"
+    },
+    "test/000065.jpg": {
+        "image_path": "NEU_Seg/test/000065.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000065.png"
+    },
+    "test/000099.jpg": {
+        "image_path": "NEU_Seg/test/000099.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000099.png"
+    },
+    "test/000666.jpg": {
+        "image_path": "NEU_Seg/test/000666.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000666.png"
+    },
+    "test/000149.jpg": {
+        "image_path": "NEU_Seg/test/000149.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000149.png"
+    },
+    "test/000478.jpg": {
+        "image_path": "NEU_Seg/test/000478.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000478.png"
+    },
+    "test/000190.jpg": {
+        "image_path": "NEU_Seg/test/000190.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000190.png"
+    },
+    "test/000121.jpg": {
+        "image_path": "NEU_Seg/test/000121.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000121.png"
+    },
+    "test/000078.jpg": {
+        "image_path": "NEU_Seg/test/000078.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000078.png"
+    },
+    "test/000501.jpg": {
+        "image_path": "NEU_Seg/test/000501.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000501.png"
+    },
+    "test/000425.jpg": {
+        "image_path": "NEU_Seg/test/000425.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000425.png"
+    },
+    "test/000695.jpg": {
+        "image_path": "NEU_Seg/test/000695.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000695.png"
+    },
+    "test/000273.jpg": {
+        "image_path": "NEU_Seg/test/000273.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000273.png"
+    },
+    "test/000622.jpg": {
+        "image_path": "NEU_Seg/test/000622.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000622.png"
+    },
+    "test/000163.jpg": {
+        "image_path": "NEU_Seg/test/000163.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000163.png"
+    },
+    "test/000706.jpg": {
+        "image_path": "NEU_Seg/test/000706.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000706.png"
+    },
+    "test/000784.jpg": {
+        "image_path": "NEU_Seg/test/000784.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000784.png"
+    },
+    "test/000490.jpg": {
+        "image_path": "NEU_Seg/test/000490.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000490.png"
+    },
+    "test/000757.jpg": {
+        "image_path": "NEU_Seg/test/000757.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000757.png"
+    },
+    "test/000831.jpg": {
+        "image_path": "NEU_Seg/test/000831.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000831.png"
+    },
+    "test/000777.jpg": {
+        "image_path": "NEU_Seg/test/000777.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000777.png"
+    },
+    "test/000422.jpg": {
+        "image_path": "NEU_Seg/test/000422.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000422.png"
+    },
+    "test/000123.jpg": {
+        "image_path": "NEU_Seg/test/000123.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000123.png"
+    },
+    "test/000411.jpg": {
+        "image_path": "NEU_Seg/test/000411.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000411.png"
+    },
+    "test/000758.jpg": {
+        "image_path": "NEU_Seg/test/000758.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000758.png"
+    },
+    "test/000253.jpg": {
+        "image_path": "NEU_Seg/test/000253.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000253.png"
+    },
+    "test/000239.jpg": {
+        "image_path": "NEU_Seg/test/000239.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000239.png"
+    },
+    "test/000607.jpg": {
+        "image_path": "NEU_Seg/test/000607.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000607.png"
+    },
+    "test/000538.jpg": {
+        "image_path": "NEU_Seg/test/000538.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000538.png"
+    },
+    "test/000127.jpg": {
+        "image_path": "NEU_Seg/test/000127.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000127.png"
+    },
+    "test/000446.jpg": {
+        "image_path": "NEU_Seg/test/000446.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000446.png"
+    },
+    "test/000314.jpg": {
+        "image_path": "NEU_Seg/test/000314.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000314.png"
+    },
+    "test/000526.jpg": {
+        "image_path": "NEU_Seg/test/000526.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000526.png"
+    },
+    "test/000766.jpg": {
+        "image_path": "NEU_Seg/test/000766.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000766.png"
+    },
+    "test/000381.jpg": {
+        "image_path": "NEU_Seg/test/000381.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000381.png"
+    },
+    "test/000231.jpg": {
+        "image_path": "NEU_Seg/test/000231.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000231.png"
+    },
+    "test/000301.jpg": {
+        "image_path": "NEU_Seg/test/000301.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000301.png"
+    },
+    "test/000652.jpg": {
+        "image_path": "NEU_Seg/test/000652.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000652.png"
+    },
+    "test/000383.jpg": {
+        "image_path": "NEU_Seg/test/000383.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000383.png"
+    },
+    "test/000405.jpg": {
+        "image_path": "NEU_Seg/test/000405.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000405.png"
+    },
+    "test/000192.jpg": {
+        "image_path": "NEU_Seg/test/000192.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000192.png"
+    },
+    "test/000455.jpg": {
+        "image_path": "NEU_Seg/test/000455.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000455.png"
+    },
+    "test/000311.jpg": {
+        "image_path": "NEU_Seg/test/000311.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000311.png"
+    },
+    "test/000595.jpg": {
+        "image_path": "NEU_Seg/test/000595.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000595.png"
+    },
+    "test/000576.jpg": {
+        "image_path": "NEU_Seg/test/000576.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000576.png"
+    },
+    "test/000746.jpg": {
+        "image_path": "NEU_Seg/test/000746.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000746.png"
+    },
+    "test/000744.jpg": {
+        "image_path": "NEU_Seg/test/000744.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000744.png"
+    },
+    "test/000604.jpg": {
+        "image_path": "NEU_Seg/test/000604.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000604.png"
+    },
+    "test/000229.jpg": {
+        "image_path": "NEU_Seg/test/000229.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000229.png"
+    },
+    "test/000268.jpg": {
+        "image_path": "NEU_Seg/test/000268.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000268.png"
+    },
+    "test/000288.jpg": {
+        "image_path": "NEU_Seg/test/000288.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000288.png"
+    },
+    "test/000830.jpg": {
+        "image_path": "NEU_Seg/test/000830.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000830.png"
+    },
+    "test/000029.jpg": {
+        "image_path": "NEU_Seg/test/000029.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000029.png"
+    },
+    "test/000389.jpg": {
+        "image_path": "NEU_Seg/test/000389.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000389.png"
+    },
+    "test/000248.jpg": {
+        "image_path": "NEU_Seg/test/000248.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000248.png"
+    },
+    "test/000400.jpg": {
+        "image_path": "NEU_Seg/test/000400.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000400.png"
+    },
+    "test/000591.jpg": {
+        "image_path": "NEU_Seg/test/000591.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000591.png"
+    },
+    "test/000811.jpg": {
+        "image_path": "NEU_Seg/test/000811.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000811.png"
+    },
+    "test/000598.jpg": {
+        "image_path": "NEU_Seg/test/000598.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000598.png"
+    },
+    "test/000332.jpg": {
+        "image_path": "NEU_Seg/test/000332.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000332.png"
+    },
+    "test/000170.jpg": {
+        "image_path": "NEU_Seg/test/000170.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000170.png"
+    },
+    "test/000815.jpg": {
+        "image_path": "NEU_Seg/test/000815.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000815.png"
+    },
+    "test/000483.jpg": {
+        "image_path": "NEU_Seg/test/000483.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000483.png"
+    },
+    "test/000056.jpg": {
+        "image_path": "NEU_Seg/test/000056.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000056.png"
+    },
+    "test/000728.jpg": {
+        "image_path": "NEU_Seg/test/000728.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000728.png"
+    },
+    "test/000035.jpg": {
+        "image_path": "NEU_Seg/test/000035.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000035.png"
+    },
+    "test/000792.jpg": {
+        "image_path": "NEU_Seg/test/000792.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000792.png"
+    },
+    "test/000032.jpg": {
+        "image_path": "NEU_Seg/test/000032.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000032.png"
+    },
+    "test/000306.jpg": {
+        "image_path": "NEU_Seg/test/000306.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000306.png"
+    },
+    "test/000214.jpg": {
+        "image_path": "NEU_Seg/test/000214.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000214.png"
+    },
+    "test/000011.jpg": {
+        "image_path": "NEU_Seg/test/000011.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000011.png"
+    },
+    "test/000372.jpg": {
+        "image_path": "NEU_Seg/test/000372.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000372.png"
+    },
+    "test/000040.jpg": {
+        "image_path": "NEU_Seg/test/000040.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000040.png"
+    },
+    "test/000261.jpg": {
+        "image_path": "NEU_Seg/test/000261.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000261.png"
+    },
+    "test/000345.jpg": {
+        "image_path": "NEU_Seg/test/000345.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000345.png"
+    },
+    "test/000079.jpg": {
+        "image_path": "NEU_Seg/test/000079.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000079.png"
+    },
+    "test/000484.jpg": {
+        "image_path": "NEU_Seg/test/000484.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000484.png"
+    },
+    "test/000502.jpg": {
+        "image_path": "NEU_Seg/test/000502.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000502.png"
+    },
+    "test/000230.jpg": {
+        "image_path": "NEU_Seg/test/000230.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000230.png"
+    },
+    "test/000555.jpg": {
+        "image_path": "NEU_Seg/test/000555.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000555.png"
+    },
+    "test/000495.jpg": {
+        "image_path": "NEU_Seg/test/000495.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000495.png"
+    },
+    "test/000753.jpg": {
+        "image_path": "NEU_Seg/test/000753.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000753.png"
+    },
+    "test/000718.jpg": {
+        "image_path": "NEU_Seg/test/000718.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000718.png"
+    },
+    "test/000593.jpg": {
+        "image_path": "NEU_Seg/test/000593.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000593.png"
+    },
+    "test/000091.jpg": {
+        "image_path": "NEU_Seg/test/000091.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000091.png"
+    },
+    "test/000822.jpg": {
+        "image_path": "NEU_Seg/test/000822.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000822.png"
+    },
+    "test/000754.jpg": {
+        "image_path": "NEU_Seg/test/000754.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000754.png"
+    },
+    "test/000280.jpg": {
+        "image_path": "NEU_Seg/test/000280.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000280.png"
+    },
+    "test/000452.jpg": {
+        "image_path": "NEU_Seg/test/000452.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000452.png"
+    },
+    "test/000341.jpg": {
+        "image_path": "NEU_Seg/test/000341.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000341.png"
+    },
+    "test/000046.jpg": {
+        "image_path": "NEU_Seg/test/000046.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000046.png"
+    },
+    "test/000542.jpg": {
+        "image_path": "NEU_Seg/test/000542.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000542.png"
+    },
+    "test/000773.jpg": {
+        "image_path": "NEU_Seg/test/000773.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000773.png"
+    },
+    "test/000289.jpg": {
+        "image_path": "NEU_Seg/test/000289.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000289.png"
+    },
+    "test/000169.jpg": {
+        "image_path": "NEU_Seg/test/000169.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000169.png"
+    },
+    "test/000837.jpg": {
+        "image_path": "NEU_Seg/test/000837.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000837.png"
+    },
+    "test/000102.jpg": {
+        "image_path": "NEU_Seg/test/000102.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000102.png"
+    },
+    "test/000219.jpg": {
+        "image_path": "NEU_Seg/test/000219.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000219.png"
+    },
+    "test/000020.jpg": {
+        "image_path": "NEU_Seg/test/000020.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000020.png"
+    },
+    "test/000246.jpg": {
+        "image_path": "NEU_Seg/test/000246.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000246.png"
+    },
+    "test/000112.jpg": {
+        "image_path": "NEU_Seg/test/000112.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000112.png"
+    },
+    "test/000176.jpg": {
+        "image_path": "NEU_Seg/test/000176.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000176.png"
+    },
+    "test/000575.jpg": {
+        "image_path": "NEU_Seg/test/000575.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000575.png"
+    },
+    "test/000373.jpg": {
+        "image_path": "NEU_Seg/test/000373.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000373.png"
+    },
+    "test/000327.jpg": {
+        "image_path": "NEU_Seg/test/000327.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000327.png"
+    },
+    "test/000213.jpg": {
+        "image_path": "NEU_Seg/test/000213.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000213.png"
+    },
+    "test/000067.jpg": {
+        "image_path": "NEU_Seg/test/000067.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000067.png"
+    },
+    "test/000655.jpg": {
+        "image_path": "NEU_Seg/test/000655.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000655.png"
+    },
+    "test/000633.jpg": {
+        "image_path": "NEU_Seg/test/000633.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000633.png"
+    },
+    "test/000561.jpg": {
+        "image_path": "NEU_Seg/test/000561.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000561.png"
+    },
+    "test/000420.jpg": {
+        "image_path": "NEU_Seg/test/000420.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000420.png"
+    },
+    "test/000397.jpg": {
+        "image_path": "NEU_Seg/test/000397.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000397.png"
+    },
+    "test/000594.jpg": {
+        "image_path": "NEU_Seg/test/000594.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000594.png"
+    },
+    "test/000321.jpg": {
+        "image_path": "NEU_Seg/test/000321.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000321.png"
+    },
+    "test/000236.jpg": {
+        "image_path": "NEU_Seg/test/000236.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000236.png"
+    },
+    "test/000798.jpg": {
+        "image_path": "NEU_Seg/test/000798.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000798.png"
+    },
+    "test/000600.jpg": {
+        "image_path": "NEU_Seg/test/000600.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000600.png"
+    },
+    "test/000070.jpg": {
+        "image_path": "NEU_Seg/test/000070.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000070.png"
+    },
+    "test/000662.jpg": {
+        "image_path": "NEU_Seg/test/000662.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000662.png"
+    },
+    "test/000534.jpg": {
+        "image_path": "NEU_Seg/test/000534.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000534.png"
+    },
+    "test/000101.jpg": {
+        "image_path": "NEU_Seg/test/000101.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000101.png"
+    },
+    "test/000465.jpg": {
+        "image_path": "NEU_Seg/test/000465.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000465.png"
+    },
+    "test/000130.jpg": {
+        "image_path": "NEU_Seg/test/000130.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000130.png"
+    },
+    "test/000661.jpg": {
+        "image_path": "NEU_Seg/test/000661.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000661.png"
+    },
+    "test/000779.jpg": {
+        "image_path": "NEU_Seg/test/000779.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000779.png"
+    },
+    "test/000145.jpg": {
+        "image_path": "NEU_Seg/test/000145.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000145.png"
+    },
+    "test/000712.jpg": {
+        "image_path": "NEU_Seg/test/000712.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000712.png"
+    },
+    "test/000410.jpg": {
+        "image_path": "NEU_Seg/test/000410.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000410.png"
+    },
+    "test/000406.jpg": {
+        "image_path": "NEU_Seg/test/000406.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000406.png"
+    },
+    "test/000293.jpg": {
+        "image_path": "NEU_Seg/test/000293.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000293.png"
+    },
+    "test/000323.jpg": {
+        "image_path": "NEU_Seg/test/000323.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000323.png"
+    },
+    "test/000569.jpg": {
+        "image_path": "NEU_Seg/test/000569.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000569.png"
+    },
+    "test/000767.jpg": {
+        "image_path": "NEU_Seg/test/000767.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000767.png"
+    },
+    "test/000518.jpg": {
+        "image_path": "NEU_Seg/test/000518.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000518.png"
+    },
+    "test/000141.jpg": {
+        "image_path": "NEU_Seg/test/000141.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000141.png"
+    },
+    "test/000510.jpg": {
+        "image_path": "NEU_Seg/test/000510.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000510.png"
+    },
+    "test/000002.jpg": {
+        "image_path": "NEU_Seg/test/000002.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000002.png"
+    },
+    "test/000804.jpg": {
+        "image_path": "NEU_Seg/test/000804.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000804.png"
+    },
+    "test/000787.jpg": {
+        "image_path": "NEU_Seg/test/000787.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000787.png"
+    },
+    "test/000794.jpg": {
+        "image_path": "NEU_Seg/test/000794.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000794.png"
+    },
+    "test/000454.jpg": {
+        "image_path": "NEU_Seg/test/000454.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000454.png"
+    },
+    "test/000254.jpg": {
+        "image_path": "NEU_Seg/test/000254.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000254.png"
+    },
+    "test/000173.jpg": {
+        "image_path": "NEU_Seg/test/000173.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000173.png"
+    },
+    "test/000351.jpg": {
+        "image_path": "NEU_Seg/test/000351.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000351.png"
+    },
+    "test/000379.jpg": {
+        "image_path": "NEU_Seg/test/000379.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000379.png"
+    },
+    "test/000741.jpg": {
+        "image_path": "NEU_Seg/test/000741.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000741.png"
+    },
+    "test/000511.jpg": {
+        "image_path": "NEU_Seg/test/000511.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000511.png"
+    },
+    "test/000623.jpg": {
+        "image_path": "NEU_Seg/test/000623.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "NEU_Seg",
+        "mask_path": "NEU_Seg/ground_truth/test/000623.png"
+    }
+}

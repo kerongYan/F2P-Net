@@ -1,0 +1,982 @@
+{
+    "good/exp3_num_31138": {
+        "image_path": "MT/test/good/exp3_num_31138.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_31138.png"
+    },
+    "good/exp3_num_2642": {
+        "image_path": "MT/test/good/exp3_num_2642.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_2642.png"
+    },
+    "good/exp3_num_38023": {
+        "image_path": "MT/test/good/exp3_num_38023.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_38023.png"
+    },
+    "good/exp2_num_338872": {
+        "image_path": "MT/test/good/exp2_num_338872.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_338872.png"
+    },
+    "good/exp3_num_7899": {
+        "image_path": "MT/test/good/exp3_num_7899.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_7899.png"
+    },
+    "good/exp2_num_344570": {
+        "image_path": "MT/test/good/exp2_num_344570.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_344570.png"
+    },
+    "good/exp3_num_166221": {
+        "image_path": "MT/test/good/exp3_num_166221.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_166221.png"
+    },
+    "good/exp3_num_3539": {
+        "image_path": "MT/test/good/exp3_num_3539.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_3539.png"
+    },
+    "good/exp3_num_165409": {
+        "image_path": "MT/test/good/exp3_num_165409.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_165409.png"
+    },
+    "good/exp3_num_129632": {
+        "image_path": "MT/test/good/exp3_num_129632.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_129632.png"
+    },
+    "good/exp3_num_65031": {
+        "image_path": "MT/test/good/exp3_num_65031.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_65031.png"
+    },
+    "good/exp2_num_280962": {
+        "image_path": "MT/test/good/exp2_num_280962.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_280962.png"
+    },
+    "good/exp3_num_2074": {
+        "image_path": "MT/test/good/exp3_num_2074.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_2074.png"
+    },
+    "good/exp3_num_29508": {
+        "image_path": "MT/test/good/exp3_num_29508.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_29508.png"
+    },
+    "good/exp3_num_91008": {
+        "image_path": "MT/test/good/exp3_num_91008.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_91008.png"
+    },
+    "good/exp2_num_323339": {
+        "image_path": "MT/test/good/exp2_num_323339.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_323339.png"
+    },
+    "good/exp3_num_34117": {
+        "image_path": "MT/test/good/exp3_num_34117.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_34117.png"
+    },
+    "good/exp3_num_11304": {
+        "image_path": "MT/test/good/exp3_num_11304.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_11304.png"
+    },
+    "good/exp3_num_6541": {
+        "image_path": "MT/test/good/exp3_num_6541.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_6541.png"
+    },
+    "good/exp2_num_317576": {
+        "image_path": "MT/test/good/exp2_num_317576.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_317576.png"
+    },
+    "good/exp3_num_110136": {
+        "image_path": "MT/test/good/exp3_num_110136.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_110136.png"
+    },
+    "good/exp3_num_10448": {
+        "image_path": "MT/test/good/exp3_num_10448.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_10448.png"
+    },
+    "good/exp2_num_351066": {
+        "image_path": "MT/test/good/exp2_num_351066.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_351066.png"
+    },
+    "good/exp2_num_284861": {
+        "image_path": "MT/test/good/exp2_num_284861.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_284861.png"
+    },
+    "good/exp2_num_342873": {
+        "image_path": "MT/test/good/exp2_num_342873.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_342873.png"
+    },
+    "good/exp2_num_309366": {
+        "image_path": "MT/test/good/exp2_num_309366.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_309366.png"
+    },
+    "good/exp3_num_138649": {
+        "image_path": "MT/test/good/exp3_num_138649.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_138649.png"
+    },
+    "good/exp2_num_304307": {
+        "image_path": "MT/test/good/exp2_num_304307.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_304307.png"
+    },
+    "good/exp2_num_331174": {
+        "image_path": "MT/test/good/exp2_num_331174.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_331174.png"
+    },
+    "good/exp3_num_37278": {
+        "image_path": "MT/test/good/exp3_num_37278.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_37278.png"
+    },
+    "good/exp2_num_359476": {
+        "image_path": "MT/test/good/exp2_num_359476.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_359476.png"
+    },
+    "good/exp2_num_309668": {
+        "image_path": "MT/test/good/exp2_num_309668.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_309668.png"
+    },
+    "good/exp3_num_118911": {
+        "image_path": "MT/test/good/exp3_num_118911.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_118911.png"
+    },
+    "good/exp3_num_157763": {
+        "image_path": "MT/test/good/exp3_num_157763.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_157763.png"
+    },
+    "good/exp3_num_147971": {
+        "image_path": "MT/test/good/exp3_num_147971.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_147971.png"
+    },
+    "good/exp2_num_326603": {
+        "image_path": "MT/test/good/exp2_num_326603.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_326603.png"
+    },
+    "good/exp3_num_10945": {
+        "image_path": "MT/test/good/exp3_num_10945.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_10945.png"
+    },
+    "good/exp3_num_114419": {
+        "image_path": "MT/test/good/exp3_num_114419.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_114419.png"
+    },
+    "good/exp2_num_326923": {
+        "image_path": "MT/test/good/exp2_num_326923.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_326923.png"
+    },
+    "good/exp3_num_1855": {
+        "image_path": "MT/test/good/exp3_num_1855.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_1855.png"
+    },
+    "good/exp2_num_349844": {
+        "image_path": "MT/test/good/exp2_num_349844.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_349844.png"
+    },
+    "good/exp3_num_143234": {
+        "image_path": "MT/test/good/exp3_num_143234.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_143234.png"
+    },
+    "good/exp2_num_320822": {
+        "image_path": "MT/test/good/exp2_num_320822.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_320822.png"
+    },
+    "good/exp3_num_71224": {
+        "image_path": "MT/test/good/exp3_num_71224.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_71224.png"
+    },
+    "good/exp3_num_75119": {
+        "image_path": "MT/test/good/exp3_num_75119.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_75119.png"
+    },
+    "good/exp2_num_316344": {
+        "image_path": "MT/test/good/exp2_num_316344.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_316344.png"
+    },
+    "good/exp3_num_18185": {
+        "image_path": "MT/test/good/exp3_num_18185.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_18185.png"
+    },
+    "good/exp3_num_43853": {
+        "image_path": "MT/test/good/exp3_num_43853.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_43853.png"
+    },
+    "good/exp3_num_116299": {
+        "image_path": "MT/test/good/exp3_num_116299.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_116299.png"
+    },
+    "good/exp3_num_54942": {
+        "image_path": "MT/test/good/exp3_num_54942.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_54942.png"
+    },
+    "good/exp3_num_106779": {
+        "image_path": "MT/test/good/exp3_num_106779.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_106779.png"
+    },
+    "good/exp2_num_306609": {
+        "image_path": "MT/test/good/exp2_num_306609.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_306609.png"
+    },
+    "good/exp2_num_316715": {
+        "image_path": "MT/test/good/exp2_num_316715.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_316715.png"
+    },
+    "good/exp3_num_13568": {
+        "image_path": "MT/test/good/exp3_num_13568.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_13568.png"
+    },
+    "good/exp2_num_319334": {
+        "image_path": "MT/test/good/exp2_num_319334.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_319334.png"
+    },
+    "good/exp2_num_286251": {
+        "image_path": "MT/test/good/exp2_num_286251.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_286251.png"
+    },
+    "good/exp3_num_61338": {
+        "image_path": "MT/test/good/exp3_num_61338.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_61338.png"
+    },
+    "good/exp3_num_116991": {
+        "image_path": "MT/test/good/exp3_num_116991.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_116991.png"
+    },
+    "good/exp2_num_354402": {
+        "image_path": "MT/test/good/exp2_num_354402.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_354402.png"
+    },
+    "good/exp2_num_311334": {
+        "image_path": "MT/test/good/exp2_num_311334.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_311334.png"
+    },
+    "good/exp2_num_351450": {
+        "image_path": "MT/test/good/exp2_num_351450.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_351450.png"
+    },
+    "good/exp2_num_282899": {
+        "image_path": "MT/test/good/exp2_num_282899.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_282899.png"
+    },
+    "good/exp2_num_306443": {
+        "image_path": "MT/test/good/exp2_num_306443.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_306443.png"
+    },
+    "good/exp3_num_68398": {
+        "image_path": "MT/test/good/exp3_num_68398.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_68398.png"
+    },
+    "good/exp2_num_358116": {
+        "image_path": "MT/test/good/exp2_num_358116.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_358116.png"
+    },
+    "good/exp3_num_3828": {
+        "image_path": "MT/test/good/exp3_num_3828.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_3828.png"
+    },
+    "good/exp3_num_37556": {
+        "image_path": "MT/test/good/exp3_num_37556.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_37556.png"
+    },
+    "good/exp2_num_315006": {
+        "image_path": "MT/test/good/exp2_num_315006.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_315006.png"
+    },
+    "good/exp2_num_329231": {
+        "image_path": "MT/test/good/exp2_num_329231.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_329231.png"
+    },
+    "good/exp2_num_279109": {
+        "image_path": "MT/test/good/exp2_num_279109.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_279109.png"
+    },
+    "good/exp3_num_70527": {
+        "image_path": "MT/test/good/exp3_num_70527.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_70527.png"
+    },
+    "good/exp2_num_301499": {
+        "image_path": "MT/test/good/exp2_num_301499.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_301499.png"
+    },
+    "good/exp2_num_283218": {
+        "image_path": "MT/test/good/exp2_num_283218.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_283218.png"
+    },
+    "good/exp3_num_69845": {
+        "image_path": "MT/test/good/exp3_num_69845.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_69845.png"
+    },
+    "good/exp3_num_6571": {
+        "image_path": "MT/test/good/exp3_num_6571.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_6571.png"
+    },
+    "good/exp2_num_304688": {
+        "image_path": "MT/test/good/exp2_num_304688.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_304688.png"
+    },
+    "good/exp2_num_308824": {
+        "image_path": "MT/test/good/exp2_num_308824.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_308824.png"
+    },
+    "good/exp2_num_346332": {
+        "image_path": "MT/test/good/exp2_num_346332.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_346332.png"
+    },
+    "good/exp3_num_106186": {
+        "image_path": "MT/test/good/exp3_num_106186.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_106186.png"
+    },
+    "good/exp2_num_337671": {
+        "image_path": "MT/test/good/exp2_num_337671.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_337671.png"
+    },
+    "good/exp3_num_16556": {
+        "image_path": "MT/test/good/exp3_num_16556.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_16556.png"
+    },
+    "good/exp2_num_331946": {
+        "image_path": "MT/test/good/exp2_num_331946.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_331946.png"
+    },
+    "good/exp2_num_304861": {
+        "image_path": "MT/test/good/exp2_num_304861.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_304861.png"
+    },
+    "good/exp3_num_19753": {
+        "image_path": "MT/test/good/exp3_num_19753.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_19753.png"
+    },
+    "good/exp3_num_37056": {
+        "image_path": "MT/test/good/exp3_num_37056.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_37056.png"
+    },
+    "good/exp2_num_313853": {
+        "image_path": "MT/test/good/exp2_num_313853.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_313853.png"
+    },
+    "good/exp3_num_5941": {
+        "image_path": "MT/test/good/exp3_num_5941.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_5941.png"
+    },
+    "good/exp2_num_321452": {
+        "image_path": "MT/test/good/exp2_num_321452.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_321452.png"
+    },
+    "good/exp3_num_913": {
+        "image_path": "MT/test/good/exp3_num_913.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_913.png"
+    },
+    "good/exp3_num_94938": {
+        "image_path": "MT/test/good/exp3_num_94938.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_94938.png"
+    },
+    "good/exp2_num_355658": {
+        "image_path": "MT/test/good/exp2_num_355658.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_355658.png"
+    },
+    "good/exp3_num_51112": {
+        "image_path": "MT/test/good/exp3_num_51112.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_51112.png"
+    },
+    "good/exp3_num_39447": {
+        "image_path": "MT/test/good/exp3_num_39447.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_39447.png"
+    },
+    "good/exp3_num_154595": {
+        "image_path": "MT/test/good/exp3_num_154595.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_154595.png"
+    },
+    "good/exp2_num_317911": {
+        "image_path": "MT/test/good/exp2_num_317911.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_317911.png"
+    },
+    "good/exp2_num_320463": {
+        "image_path": "MT/test/good/exp2_num_320463.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_320463.png"
+    },
+    "good/exp2_num_299741": {
+        "image_path": "MT/test/good/exp2_num_299741.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_299741.png"
+    },
+    "good/exp2_num_332707": {
+        "image_path": "MT/test/good/exp2_num_332707.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_332707.png"
+    },
+    "good/exp2_num_280233": {
+        "image_path": "MT/test/good/exp2_num_280233.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_280233.png"
+    },
+    "good/exp2_num_319440": {
+        "image_path": "MT/test/good/exp2_num_319440.jpg",
+        "label": 0,
+        "label_name": "good",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_319440.png"
+    },
+    "Fray/exp1_num_77531": {
+        "image_path": "MT/test/Fray/exp1_num_77531.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_77531.png"
+    },
+    "Fray/exp2_num_20390": {
+        "image_path": "MT/test/Fray/exp2_num_20390.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_20390.png"
+    },
+    "Fray/exp6_num_136770": {
+        "image_path": "MT/test/Fray/exp6_num_136770.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_136770.png"
+    },
+    "Fray/exp1_num_20362": {
+        "image_path": "MT/test/Fray/exp1_num_20362.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_20362.png"
+    },
+    "Crack/exp6_num_249821": {
+        "image_path": "MT/test/Crack/exp6_num_249821.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_249821.png"
+    },
+    "Crack/exp3_num_342176": {
+        "image_path": "MT/test/Crack/exp3_num_342176.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_342176.png"
+    },
+    "Crack/exp4_num_116553": {
+        "image_path": "MT/test/Crack/exp4_num_116553.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp4_num_116553.png"
+    },
+    "Crack/exp4_num_249762": {
+        "image_path": "MT/test/Crack/exp4_num_249762.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp4_num_249762.png"
+    },
+    "Crack/exp5_num_265695": {
+        "image_path": "MT/test/Crack/exp5_num_265695.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_265695.png"
+    },
+    "Crack/exp6_num_32235": {
+        "image_path": "MT/test/Crack/exp6_num_32235.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_32235.png"
+    },
+    "Break/exp4_num_194236": {
+        "image_path": "MT/test/Break/exp4_num_194236.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp4_num_194236.png"
+    },
+    "Break/exp6_num_98402": {
+        "image_path": "MT/test/Break/exp6_num_98402.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_98402.png"
+    },
+    "Break/exp5_num_304345": {
+        "image_path": "MT/test/Break/exp5_num_304345.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_304345.png"
+    },
+    "Break/exp3_num_77583": {
+        "image_path": "MT/test/Break/exp3_num_77583.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_77583.png"
+    },
+    "Break/exp5_num_276416": {
+        "image_path": "MT/test/Break/exp5_num_276416.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_276416.png"
+    },
+    "Break/exp6_num_26244": {
+        "image_path": "MT/test/Break/exp6_num_26244.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_26244.png"
+    },
+    "Break/exp5_num_284552": {
+        "image_path": "MT/test/Break/exp5_num_284552.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_284552.png"
+    },
+    "Break/exp4_num_26163": {
+        "image_path": "MT/test/Break/exp4_num_26163.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp4_num_26163.png"
+    },
+    "Break/exp5_num_271434": {
+        "image_path": "MT/test/Break/exp5_num_271434.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_271434.png"
+    },
+    "Uneven/exp2_num_186858": {
+        "image_path": "MT/test/Uneven/exp2_num_186858.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_186858.png"
+    },
+    "Uneven/exp1_num_28341": {
+        "image_path": "MT/test/Uneven/exp1_num_28341.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_28341.png"
+    },
+    "Uneven/exp5_num_270218": {
+        "image_path": "MT/test/Uneven/exp5_num_270218.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_270218.png"
+    },
+    "Uneven/exp1_num_33365": {
+        "image_path": "MT/test/Uneven/exp1_num_33365.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_33365.png"
+    },
+    "Uneven/exp3_num_155360": {
+        "image_path": "MT/test/Uneven/exp3_num_155360.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_155360.png"
+    },
+    "Uneven/exp5_num_109313": {
+        "image_path": "MT/test/Uneven/exp5_num_109313.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_109313.png"
+    },
+    "Uneven/exp2_num_155333": {
+        "image_path": "MT/test/Uneven/exp2_num_155333.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp2_num_155333.png"
+    },
+    "Uneven/exp6_num_155478": {
+        "image_path": "MT/test/Uneven/exp6_num_155478.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_155478.png"
+    },
+    "Uneven/exp1_num_311809": {
+        "image_path": "MT/test/Uneven/exp1_num_311809.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_311809.png"
+    },
+    "Uneven/exp3_num_311847": {
+        "image_path": "MT/test/Uneven/exp3_num_311847.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_311847.png"
+    },
+    "Blowhole/exp5_num_4801": {
+        "image_path": "MT/test/Blowhole/exp5_num_4801.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp5_num_4801.png"
+    },
+    "Blowhole/exp1_num_36290": {
+        "image_path": "MT/test/Blowhole/exp1_num_36290.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp1_num_36290.png"
+    },
+    "Blowhole/exp6_num_36280": {
+        "image_path": "MT/test/Blowhole/exp6_num_36280.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_36280.png"
+    },
+    "Blowhole/exp6_num_5106": {
+        "image_path": "MT/test/Blowhole/exp6_num_5106.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_5106.png"
+    },
+    "Blowhole/exp3_num_108757": {
+        "image_path": "MT/test/Blowhole/exp3_num_108757.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_108757.png"
+    },
+    "Blowhole/exp3_num_291038": {
+        "image_path": "MT/test/Blowhole/exp3_num_291038.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_291038.png"
+    },
+    "Blowhole/exp3_num_54291": {
+        "image_path": "MT/test/Blowhole/exp3_num_54291.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_54291.png"
+    },
+    "Blowhole/exp3_num_322643": {
+        "image_path": "MT/test/Blowhole/exp3_num_322643.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_322643.png"
+    },
+    "Blowhole/exp6_num_291134": {
+        "image_path": "MT/test/Blowhole/exp6_num_291134.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp6_num_291134.png"
+    },
+    "Blowhole/exp3_num_36246": {
+        "image_path": "MT/test/Blowhole/exp3_num_36246.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_36246.png"
+    },
+    "Blowhole/exp3_num_51711": {
+        "image_path": "MT/test/Blowhole/exp3_num_51711.jpg",
+        "label": 1,
+        "label_name": "defective",
+        "object_name": "MT",
+        "mask_path": "MT/ground_truth/exp3_num_51711.png"
+    }
+}
