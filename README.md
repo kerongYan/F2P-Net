@@ -13,6 +13,7 @@ Please clone our project to your local machine and prepare our environment by th
 
 We recommend you use the following environment installation command directly.
 ```
+$: cd F2P-Net
 conda env create -f environment.yml
 ```
 Alternatively, you may use the following environment installation command:
