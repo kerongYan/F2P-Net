@@ -61,7 +61,7 @@ After running, the checkpoint with the best performance will be automatically sa
 ## Test
 
 We provide the checkpoints for the 64-shot experiments.
-To download the checkpoints, please visit [here]([https://drive.google.com/drive/folders/1oik813aRkFvZh000GI_58TUsu1uW9LSF?usp=sharing](https://drive.google.com/drive/folders/1JEAJn7svhzPNcYtH9faejTumm6sqUzv0)).
+To download the checkpoints, please visit [here]([https://drive.google.com/drive/folders/1oik813aRkFvZh000GI_58TUsu1uW9LSF?usp=sharing](https://drive.google.com/drive/folders/1JEAJn7svhzPNcYtH9faejTumm6sqUzv0).
 
 For testing, please run:
 ```
