@@ -52,7 +52,7 @@ $: cd F2P-Net
 $: pwd
 /your_dir/F2P-Net
 $: conda activate F2P-Net
-(cat-sam) $: python train.py --dataset <your-target-dataset> --shot_num 64
+(F2P-Net) $: python train.py --dataset <your-target-dataset> --shot_num 64
 If the argument `--shot_num` is not specified, training will proceed with the full-shot condition. 
 ```
 Please prepare the following GPUs according to the following conditions:
