@@ -31,7 +31,8 @@ The code has been tested on NVIDAI RTX 4090 with Python 3.9, CUDA 11.7 and Pytor
 
 
 ## Data
-Please refer to the README.md in the dataset-specific folders under `./data` to prepare each of them.
+Please refer to the README.md in the dataset-specific folders under `./data` to prepare each of them. 
+The download address for the dataset used in our experiment is [this](https://drive.google.com/drive/folders/1MhIuUVbV2O74CFiHwVZsgSmu1_MAKJm-).
 
 ## Train
 Before training, please download the SAM checkpoints to `./pretrained` from [here](https://github.com/facebookresearch/segment-anything#model-checkpoints).
